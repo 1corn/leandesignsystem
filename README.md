@@ -6,3 +6,4 @@ Lean Design System is planned to go live as a collaborative project in July and 
 
 If you want to be notified about the launch, send an email to contact@leandesignsystem.com
 
+Integration test.
