@@ -9,4 +9,5 @@
 * [Infrastructure](tactics/infrastructure.md)
 * [Actions](tactics/actions.md)
 * [Artifacts](tactics/artifacts.md)
+* [Design Tokens](tactics/design-tokens.md)
 
