@@ -11,5 +11,5 @@ A design system based on design tokens forces designers and developers to contin
 
 Designers are encouraged to have at least a basic understanding of the code in order to define and approve tokens. Front-end developers learn about the intent behind design rules and the relationships between properties by applying design tokens to UI implementations. Design tokens provide designers and developers with levers to make changes quickly and effectively throughout all layers of the design system and front-end implementations. These layers include the brand design properties at the core of the design system, higher level themes and custom adaptations, as well as the specific UI component mappings on the surface of a digital product.
 
-![](../.gitbook/assets/anim_tokens_lever.png)
+![](../../.gitbook/assets/anim_tokens_lever.png)
 
