@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Getting Started](README.md)
-* [Core Values](getting-started.md)
+* [Get Started](README.md)
+* [Core Values](core-values.md)
 
 ## Tactics
 
