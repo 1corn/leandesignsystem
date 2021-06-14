@@ -16,5 +16,5 @@ Let's have a closer look at each of them to learn .
 
 ## Start now
 
-![](../../.gitbook/assets/dimensions_exp_2.svg)
+![](../../.gitbook/assets/dimensions_exp_3.svg)
 
