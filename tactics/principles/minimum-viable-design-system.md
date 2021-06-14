@@ -11,7 +11,7 @@ Planning, implementing and communicating a modern design system can easily turn 
 Minimum Viable Design System attempts to address all these concerns and is centered around the following 3 core ideas, which also underpin the Lean Design System methodology as a whole:
 
 * **Start today:** The best time to start cultivating a design system was the day we started working together. The second best time is now.
-* **Solve today's problems:** The success of a design system isn't defined by its comprehensiveness or depth of implementation, but solely by the extent to which it helps us solve real problems and drive forth compelling products.
+* **Solve today's problems:** The success of a design system isn't defined by its comprehensiveness or depth of implementation, but solely by the extent to which it helps us solve real problems and generate compelling products.
 * **Validate continuously:** building the components needed today and starting to use them immediately 
 
 Let's have a closer look at each of these ideas to learn how they and what it means to apply them in practice.
