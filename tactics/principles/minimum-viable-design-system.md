@@ -14,7 +14,7 @@ Minimum Viable Design System attempts to address all these concerns and is cente
 * **Solve today's problems:** The success of a design system isn't defined by its comprehensiveness or depth of implementation, but solely by the extent to which it helps us solve real problems and drive forth compelling products.
 * **Validate continuously:** building the components needed today and starting to use them immediately 
 
-These ideas also underpin Lean Design System as a whole. Let's have a closer look at each of them to learn how they .
+These ideas also underpin Lean Design System as a whole. Let's have a closer look at each of them to learn how they . [Test Link.](../actions/enable.md)
 
 ## Start today
 
