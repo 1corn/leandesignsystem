@@ -1,0 +1,103 @@
+<svg class="lds-vis" id="LDS_Elements" data-name="LDS Elements" xmlns="http://www.w3.org/2000/svg" width="1220px" height="780px" viewBox="0 0 610 390">
+    <defs>
+        <style>
+
+        .lds-vis * {
+            font-family: arial, sans-serif !important;
+        }
+        	
+        .cls-1,
+        .cls-3,
+        .cls-4,
+        .cls-5,
+        .cls-6,
+        .cls-7 {
+            fill: #fff;
+        }
+
+        .cls-11,
+        .cls-2,
+        .cls-9 {
+            fill: #5784ff;
+        }
+
+        .cls-3,
+        .cls-9 {
+            font-size: 12px;
+            font-family: Arial-BoldMT, Arial;
+            font-weight: 700;
+        }
+
+        .cls-11,
+        .cls-4,
+        .cls-5,
+        .cls-6,
+        .cls-7 {
+            font-size: 10px;
+        }
+
+        .cls-4,
+        .cls-5,
+        .cls-6,
+        .cls-7 {
+            font-family: ArialMT, Arial;
+        }
+
+        .cls-5 {
+            opacity: 0.8;
+        }
+
+        .cls-6 {
+            opacity: 0.6;
+        }
+
+        .cls-7 {
+            opacity: 0.4;
+        }
+
+        .cls-8 {
+            letter-spacing: -0.06em;
+        }
+
+        .cls-10 {
+            letter-spacing: -0.07em;
+        }
+
+        .cls-11 {
+            font-family: Mulish-Regular, Mulish;
+        }
+
+        .cls-12 {
+            letter-spacing: -0.01em;
+        }
+
+        .cls-13 {
+            fill: none;
+            stroke: #5784ff;
+            stroke-miterlimit: 10;
+            stroke-width: 1.2px;
+            stroke-dasharray: 4.2 4.2;
+        }
+        </style>
+    </defs>
+    <rect class="cls-1" width="610.38" height="390" />
+    <rect class="cls-2" x="243.34" y="14.34" width="122.71" height="362.73" rx="15.23" /><text class="cls-3" transform="translate(283.34 190.21)">Assets,<tspan x="-18.67" y="18">specifications</tspan></text><text class="cls-4" transform="translate(280.24 154.93)">Icon library</text><text class="cls-5" transform="translate(276.34 120.39)">Logo system</text><text class="cls-6" transform="translate(276.34 85.01)">Color palette</text><text class="cls-7" transform="translate(289.68 50.66)">Motion</text><text class="cls-4" transform="translate(286.63 241.24)">Imagery</text><text class="cls-5" transform="translate(278.56 276.11)">
+        <tspan class="cls-8">T</tspan>
+        <tspan x="5.56" y="0">ypography</tspan>
+    </text><text class="cls-6" transform="translate(278.29 311.07)">Ergonomics</text><text class="cls-7" transform="translate(289.96 346.03)">Charts</text><text class="cls-9" transform="translate(177.76 199.21)">
+        <tspan class="cls-8">T</tspan>
+        <tspan x="6.67" y="0">raining</tspan>
+    </text><text class="cls-9" transform="translate(73.36 199.21)">Communication</text><text class="cls-9" transform="translate(384.4 199.21)">
+        <tspan class="cls-10">T</tspan>
+        <tspan x="6.44" y="0">oolchain</tspan>
+    </text><text class="cls-9" transform="translate(453 199.21)">Governance</text><text class="cls-11" transform="translate(126.73 248.92)">
+        <tspan class="cls-12">C</tspan>
+        <tspan x="6.74" y="0">ategories</tspan>
+    </text><text class="cls-11" transform="translate(406.44 296.66) rotate(-0.58)">Subcategories</text>
+    <line class="cls-13" x1="120.14" y1="225.26" x2="183.16" y2="225.26" />
+    <path class="cls-2" d="M128.34,231a.6.6,0,0,0-.19-.83l-7.74-4.93,7.74-4.94a.59.59,0,0,0,.19-.82.61.61,0,0,0-.83-.19L119,224.75a.6.6,0,0,0,0,1l8.54,5.44a.62.62,0,0,0,.32.09A.6.6,0,0,0,128.34,231Z" />
+    <path class="cls-2" d="M175,231a.61.61,0,0,1,.19-.83l7.74-4.93-7.74-4.94a.6.6,0,0,1-.19-.82.61.61,0,0,1,.83-.19l8.54,5.44a.6.6,0,0,1,0,1l-8.54,5.44a.62.62,0,0,1-.32.09A.6.6,0,0,1,175,231Z" />
+    <line class="cls-13" x1="391.91" y1="262.52" x2="391.91" y2="325.55" />
+    <path class="cls-2" d="M386.15,270.72a.6.6,0,0,0,.83-.18l4.93-7.74,4.93,7.74a.6.6,0,0,0,1-.65l-5.43-8.53a.6.6,0,0,0-.51-.28.59.59,0,0,0-.51.28L386,269.89a.58.58,0,0,0-.1.33A.59.59,0,0,0,386.15,270.72Z" />
+    <path class="cls-2" d="M386.15,317.35a.6.6,0,0,1,.83.18l4.93,7.75,4.93-7.75a.6.6,0,0,1,1,.65l-5.43,8.53a.6.6,0,0,1-.51.28.59.59,0,0,1-.51-.28L386,318.18a.55.55,0,0,1-.1-.32A.6.6,0,0,1,386.15,317.35Z" />
+</svg>
