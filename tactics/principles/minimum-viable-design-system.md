@@ -22,15 +22,19 @@ If we're already building digital products in a team, there really isn't any rea
 
 ## Solve today's problems
 
-In order to understand and apply Minimum Viable Design System, we first need to consider the definition of design systems themselves: At what point does a collection of front-end components, UI kits, and guidelines become a design system? Lean Design System promotes a very pragmatic and straightforward interpretation: Any socio-technical system that makes our product development successes repeatable and transferable is a design system. Such a success can be design-related, but also of technical or organizational nature. What elements and components it precisely covers entirely depends on our specific problems, challenges and goals. This liberating notion allows us to focus our efforts on ,  and confidently draw on freely available resources in other areas. 
+In order to understand and apply Minimum Viable Design System, we first need to consider the definition of design systems themselves: At what point does a collection of front-end components, UI kits, and guidelines become a design system? Lean Design System promotes a very pragmatic and straightforward interpretation: Any socio-technical system that makes our product development successes repeatable and transferable is a design system. Such a success can be design-related, but also of technical or organizational nature. What elements and components it precisely covers entirely depends on our specific problems, challenges and goals. This liberating notion allows us to focus our efforts on , and confidently draw on freely available resources in other areas.
 
 > Any socio-technical system that makes our product development successes repeatable and transferable is a design system.
 
-The following diagrams \(fig. 1 and fig. 2\) provide two ways to look at the structure of a design system. Fig. 1 outlines a possible anatomy of a design system 
+The following diagrams \(fig. 1 and fig. 2\) provide two ways to look at the structure of a design system. Fig. 1 outlines a possible anatomy of a design system
 
-![Fig. 1: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
+![Fig 1.: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
+
+A different figure:
+
+![Fig. 2: Typical elements of a design system](../../.gitbook/assets/fig_elements.svg)
 
 ## Validate continuously
 
-The Lean Design System methodology strongly values Exploration over Planning. 
+The Lean Design System methodology strongly values Exploration over Planning.
 
