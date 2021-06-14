@@ -28,7 +28,7 @@ In order to understand and apply Minimum Viable Design System, we first need to 
 
 The following diagrams \(fig. 1 and fig. 2\) provide two ways to look at the structure of a design system. Fig. 1 outlines a possible anatomy of a design system 
 
-![Fig. 1: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
+![Fig. 1: A typical anatomy of a design system](https://github.com/1corn/leandesignsystem/blob/dev/figures/fig_anatomy.svg)
 
 ## Validate continuously
 
