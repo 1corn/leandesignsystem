@@ -6,15 +6,15 @@ description: >-
 
 # Minimum Viable Design System
 
-Minimum Viable Design System is centered around the following 3 core ideas:
+Addressing these concerns, Minimum Viable Design System is centered around the following 3 core ideas:
 
 * **Start today:** The best time to start cultivating a design system was the day we started working as a team. The second best time is now.
 * **Solve today's problems:** The success of a design system isn't defined by its comprehensiveness or depth of implementation, but solely by the extent to which it helps us solve real problems and build compelling products.
 * **Validate continuously:** building the components needed today and starting to use them immediately 
 
-Let's have a closer look at each of them to learn .
+Let's have a closer look at each of them to learn how they .
 
-## Start now
+## Start today
 
-![](../../.gitbook/assets/dimensions_exp_4.svg)
+![](../../.gitbook/assets/rgb_dls.svg)
 
