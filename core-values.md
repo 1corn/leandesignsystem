@@ -4,4 +4,3 @@ Here you will learn how to use and navigate Lean Design System. This guide will 
 
 To be released in July 2021.
 
-Test 2
