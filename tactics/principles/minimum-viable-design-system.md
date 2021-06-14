@@ -30,11 +30,31 @@ The following diagrams \(fig. 1 and fig. 2\) provide two ways to look at the str
 
 ![Fig 1.: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
 
-A different figure:
+Description for Fig 2.
 
 ![Fig. 2: Typical elements of a design system](../../.gitbook/assets/fig_elements.svg)
 
 ## Validate continuously
 
-The Lean Design System methodology strongly values Exploration over Planning.
+The Lean Design System methodology strongly values Exploration over Planning. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Where this tactic fits in
+
+{% tabs %}
+{% tab title="This tactic supports" %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+{% page-ref page="minimum-viable-design-system.md" %}
+
+Abore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+{% page-ref page="../artifacts/design-tokens.md" %}
+{% endtab %}
+
+{% tab title="This tactic is supported by" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
