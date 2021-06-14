@@ -42,17 +42,17 @@ The Lean Design System methodology strongly values Exploration over Planning. Lo
 
 {% tabs %}
 
-{% tab title="🙏 This tactic benefits from" %}
+{% tab title="💪 This tactic supports" %}
 
-Test Text A
+Test Text B
 
 {% page-ref page="minimum-viable-design-system.md" %}
 
 {% endtab %}
 
-{% tab title="💪 This tactic supports" %}
+{% tab title="🙏 This tactic benefits from" %}
 
-Test Text B
+Test Text A
 
 {% page-ref page="minimum-viable-design-system.md" %}
 
