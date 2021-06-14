@@ -16,5 +16,7 @@ Let's have a closer look at each of them to learn .
 
 ## Start now
 
+![](../../.gitbook/assets/dimensions_exp.svg)
+
 ![Anatomy of a Design System](../../.gitbook/assets/diagram_design_system_anatomy.png)
 
