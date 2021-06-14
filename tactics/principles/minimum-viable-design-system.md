@@ -8,13 +8,13 @@ description: >-
 
 Planning, implementing and communicating a modern design system can easily turn into a formidable undertaking, requiring significant investments of time, capital and people. Often, these prove insuperable barriers to entry for resource-constrained organizations. Furthermore, poses risks to
 
-Minimum Viable Design System attempts to address all these concerns and is centered around the following 3 core ideas:
+Minimum Viable Design System attempts to address all these concerns and is centered around the following 3 core ideas, which also underpin the Lean Design System methodology as a whole:
 
-* **Start today:** The best time to start cultivating a design system was the day we started working as a team. The second best time is now.
+* **Start today:** The best time to start cultivating a design system was the day we started working together. The second best time is now.
 * **Solve today's problems:** The success of a design system isn't defined by its comprehensiveness or depth of implementation, but solely by the extent to which it helps us solve real problems and drive forth compelling products.
 * **Validate continuously:** building the components needed today and starting to use them immediately 
 
-These ideas also underpin Lean Design System as a whole. Let's have a closer look at each of them to learn how they . [Test Link.](../actions/enable.md) Test Text
+Let's have a closer look at each of these ideas to learn how they and what it means to apply them in practice.
 
 ## Start today
 
