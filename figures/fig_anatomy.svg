@@ -6,6 +6,10 @@
             font-family: arial, sans-serif !important;
         }
 
+        .cls-white {
+            fill: #fff;
+        }
+
         .cls-1,
         .cls-10,
         .cls-11 {
@@ -88,6 +92,9 @@
         }
         </style>
     </defs>
+
+    <rect class="cls-white" width="600" height="470" />
+
     <rect class="cls-1" x="77.28" y="425.18" width="282.26" height="35.2" />
     <rect class="cls-1" x="77.28" y="97.78" width="282.26" height="282.26" /><text class="cls-2" transform="translate(155.14 445.11)">
         <tspan class="cls-3">V</tspan>
