@@ -5,7 +5,8 @@
 
 ## Tactics
 
-* [Principles](tactics/principles.md)
+* [Principles](tactics/principles/README.md)
+  * [Minimum Viable Design System](tactics/principles/minimum-viable-design-system.md)
 * [Infrastructure](tactics/infrastructure.md)
 * [Actions](tactics/actions.md)
 * [Artifacts](tactics/artifacts/README.md)
