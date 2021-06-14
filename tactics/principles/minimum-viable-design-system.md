@@ -20,7 +20,7 @@ These ideas also underpin Lean Design System as a whole. Let's have a closer loo
 
 
 
-![A possible anatomy of a design system](../../.gitbook/assets/rgb_dls.svg)
+![Fig. 1: A possible anatomy of a design system](../../.gitbook/assets/rgb_dls.svg)
 
 ## Solve today's problems
 
