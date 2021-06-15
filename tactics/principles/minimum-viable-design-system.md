@@ -34,7 +34,7 @@ Examples of external resources we can fall back on include:
 * Versatile **illustration libraries** and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.
 * A unique **icon library** can be an important building block of a distinctive brand design language. However, there are hosts of resources available online \(which are either free and open source or at least more affordable than an in-house effort\) and among them, we should almost certainly be able to find a few options suitable to our needs.
 
-The following diagram illustrates a typical design system anatomy and can serve as a map and canvas to locate our top priorities: 
+The structure of a design system can be sliced many different ways. Understanding the individual parameters that make it up is key to identifying potentials and gaps. The following diagram illustrates a typical design system anatomy and can serve as a map and canvas to locate our top priorities: 
 
 ![Fig 1.: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
 
