@@ -63,17 +63,17 @@ Keeping the interfaces between our own and external resources clean will help us
 
 {% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
 
-**Think Systems!** outlines a mindset we can adopt on an individual level to help us identify optimization potentials.
+Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials.
 
 {% page-ref page="../actions/think-systems.md" %}
 
-**UX Vignettes** make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
+UX Vignettes make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
 
 {% page-ref page="../artifacts/ux-vignettes.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-MVDS provides a helpful frame of reference for establishing our system repositories and thus supports both **Single Source\(s\) of Truth** and **A Name and a Place**.
+MVDS provides a helpful frame of reference for establishing our system repositories and thus supports both Single Source\(s\) of Truth and A Name and a Place.
 
 {% page-ref page="single-source-s-of-truth.md" %}
 
