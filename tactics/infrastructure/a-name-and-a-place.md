@@ -6,21 +6,17 @@ Tabs Test
 {% tab title="Test 1" %}
 Test Text A
 
-{% page-ref page="minimum-viable-design-system.md" %}
+Test Text B
 
-Test Text A
-
-{% page-ref page="minimum-viable-design-system.md" %}
+Test Text C
 {% endtab %}
 
 {% tab title="Test 2" %}
 Test Text A
 
-{% page-ref page="minimum-viable-design-system.md" %}
+Test Text B
 
-Test Text A
-
-{% page-ref page="minimum-viable-design-system.md" %}
+Test Text C
 {% endtab %}
 {% endtabs %}
 
