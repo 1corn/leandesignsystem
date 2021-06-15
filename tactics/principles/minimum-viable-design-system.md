@@ -49,9 +49,11 @@ A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud
 
 ## Validate continuously
 
-The Lean Design System methodology values exploration over planning. Instead of waiting for a perfect, all-encompassing solution, we try to aim in the right direction, validate components right away and correct course as needed.
-
 > The Lean Design System methodology values exploration over planning. We try to aim in the right direction and correct our course as needed.
+
+To summarize the ideas outlined above: We treat all aspects of our design work and the design/development handoff as parts of a living design system. We clarify each element's role and function in this system and maintain a lightweight documentation alongside our efforts. We draw on external resources to fill any gaps—with the goal of making each component we create usable from the get-go, even if it's not yet embedded in a fully-fledged library.
+
+The Lean Design System methodology values exploration over planning. Instead of waiting for a perfect, all-encompassing solution, we try to aim in the right direction, use components as soon as possible and correct course as needed. If a process or a component doesn't stand the test of real-world application, we go back and optimize it or explore a different approach altogether. The building blocks of a design system are digital in nature and thus, we can freely re-combine, adapt and optimize them. With the right infrastructure in place, we can even propagate changes throughout our product portfolios after initial delivery. Wrong paths can be backtracked and bad decisions reconsidered; we don't have to be overly cautious—instead, we should experiment freely and constantly produce usable results which we can validate in practice.
 
 ## Where this tactic fits in
 
@@ -61,17 +63,17 @@ Keeping the interfaces between our own and external resources clean will help us
 
 {% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
 
-Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials.
+**Think Systems!** outlines a mindset we can adopt on an individual level to help us identify optimization potentials.
 
 {% page-ref page="../actions/think-systems.md" %}
 
-UX Vignettes make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
+**UX Vignettes** make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
 
 {% page-ref page="../artifacts/ux-vignettes.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-MVDS provides a helpful frame of reference for establishing our system repositories and supports both Single Source\(s\) of Truth and A Name and a Place.
+MVDS provides a helpful frame of reference for establishing our system repositories and supports both **Single Source\(s\) of Truth** and **A Name and a Place**.
 
 {% page-ref page="single-source-s-of-truth.md" %}
 
