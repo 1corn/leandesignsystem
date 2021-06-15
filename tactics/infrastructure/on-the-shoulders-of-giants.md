@@ -16,3 +16,7 @@ Can make us overly dependent on things out of our control and cost us flexibilit
 
 ![Fig. 1: Front-end architecture, product view](../../.gitbook/assets/fig_architecture_product.svg)
 
+If we zoom out a little and , we can see that such an architecture can work for a diverse product portfolio and different implementations can all draw from the same design tokens foundation—so long as we keep our interfaces clean and simple and utilize the provided theming capabilities as they were intended. This is an extremely powerful paradigm that even allows us to explore different approaches for different platforms.
+
+![Fig. 2: Front-end architecture, platform view](../../.gitbook/assets/fig_architecture_platform.svg)
+
