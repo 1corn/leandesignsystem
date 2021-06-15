@@ -1,7 +1,7 @@
 ---
 description: >-
   We start with the building blocks we need today and expose them to actual
-  projects at the earliest possible time.
+  projects at the first opportunity.
 ---
 
 # Minimum Viable Design System
@@ -18,11 +18,11 @@ Let's have a closer look at each of the 3 ideas to learn how they make the conce
 
 ## Start today
 
-If we're already building digital products in a team, there really isn't any reason to delay the systemization of design work. Today's digital tools and organizational paradigms allow for tremendous scalability—when applied properly. There are many simple steps we can take today in order to start establishing our own design system, no risks involved. Lean Design System promotes the steady cultivation of design system structures along real problems, projects and experiences—and Minimum Viable Design System provides us with a helpful reference frame around the entire methodology. Other tactics such as [A Name and a Place](../infrastructure/a-name-and-a-place.md), [Design Tokens,](../artifacts/design-tokens.md) and [Think Systems!](../actions/think-systems.md) can all serve as starting points to develop routines and elements.
+If we're already building digital products in a team, there really isn't any reason to delay the systemization of design work. Modern digital tools and organizational paradigms allow for tremendous scalability—when applied properly. There are many simple steps we can take today in order to start establishing our own design system, no risks involved. Lean Design System promotes the steady cultivation of design system structures along real problems, projects and experiences—and Minimum Viable Design System provides us with a helpful reference frame around the entire methodology. Other tactics such as [A Name and a Place](../infrastructure/a-name-and-a-place.md), [Design Tokens,](../artifacts/design-tokens.md) and [Think Systems!](../actions/think-systems.md) can all serve as starting points to develop routines and elements.
 
 ## Solve today's problems
 
-In order to understand and apply Minimum Viable Design System, we first need to consider the definition of design systems themselves: At what point does a collection of front-end components, UI kits, and guidelines become a design system? Lean Design System promotes a very pragmatic and straightforward interpretation: Any socio-technical system that makes our product development successes repeatable and transferable is a design system. Such a success can be design-related, but also of technical or organizational nature. What elements and processes it actually encompasses entirely depends on our specific problems, challenges and goals. This liberating notion allows us to focus all our efforts on components that are key to our unique value proposition. If, for example, data analytics is the core of our business, our design system may only contain data visualization patterns at the beginning. If we're digitizing maintenance workflows, we may start by developing innovative navigation paradigms and documenting them as re-usable patterns. And so on.
+In order to understand and apply Minimum Viable Design System, we first need to consider the definition of design systems themselves: At what point does a collection of front-end components, UI kits, and guidelines become a design system? Lean Design System promotes a very pragmatic and straightforward interpretation: Any socio-technical system that makes our product development successes repeatable and transferable is a design system. Such a success can be design-related, but also of technical or organizational nature. What elements and processes it actually encompasses entirely depends on our specific problems, challenges and goals. This liberating notion allows us to focus all our efforts on components that are key to our unique value proposition. If, for example, data analytics is the core of our business, our design system may only contain data visualization patterns in the beginning. If we're digitizing maintenance workflows, we may start by developing innovative navigation paradigms and documenting them as re-usable patterns. If we're a fast-moving software startup, our design system might just be an automated pipeline for now that allows designers to rapidly evaluate changes in a realistic test environment. And so on.
 
 > Any socio-technical system that makes our product development successes repeatable and transferable is a design system.
 
@@ -30,9 +30,9 @@ After we agreed on our priorities, we can confidently draw on freely available r
 
 Examples of external resources we can fall back on include:
 
-* Full-blown **front-end frameworks** like [Bootstrap](https://getbootstrap.com/) and [Material-UI](https://material-ui.com/). The tactic [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) describes how we can use their native theming capabilities and [Design Tokens](../artifacts/design-tokens.md) to align their look-and-feel with our brand identity.
+* Full-blown **front-end frameworks** like [Bootstrap](https://getbootstrap.com/) and [Material-UI](https://material-ui.com/) can be used to kickstart a front-end component library. The tactic [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) describes how we can use their native theming capabilities and [Design Tokens](../artifacts/design-tokens.md) to align their look-and-feel with our own brand identity.
 * Versatile **illustration libraries** and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.
-* A unique **icon library** can be an important building block of a distinctive brand appearance. Still, there's a huge \(and growing\) number of freely available or affordable resources worth checking out.
+* A unique **icon library** can be an important building block of a distinctive brand design language. However, there are hosts of resources available online \(which are either free and open source or at least more affordable than an in-house effort\) and among them, we should almost certainly be able to find a few options suitable to our needs.
 
 The following diagram illustrates a typical design system anatomy and can serve as a map and canvas to locate our top priorities: 
 
