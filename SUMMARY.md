@@ -7,6 +7,7 @@
 
 * [Principles](tactics/principles/README.md)
   * [Minimum Viable Design System](tactics/principles/minimum-viable-design-system.md)
+  * [Single Source\(s\) of Truth](tactics/principles/single-source-s-of-truth.md)
 * [Infrastructure](tactics/infrastructure/README.md)
   * [On the Shoulders of Giants](tactics/infrastructure/on-the-shoulders-of-giants.md)
   * [A Name and a Place](tactics/infrastructure/a-name-and-a-place.md)

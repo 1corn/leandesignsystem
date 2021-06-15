@@ -58,7 +58,9 @@ Test Text A
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+This tactic provides a frame of reference for establishing component repositories.
 
+{% page-ref page="single-source-s-of-truth.md" %}
 {% endtab %}
 {% endtabs %}
 
