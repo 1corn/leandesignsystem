@@ -36,7 +36,7 @@ Examples of external resources we can fall back on include:
 
 The structure of a design system can be sliced many different ways. Understanding the individual parameters that make it up is key to identifying potentials and gaps. The following diagram illustrates a typical design system anatomy and can serve as a map and canvas to locate our top priorities: 
 
-![Fig 1.: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
+![Fig. 1: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
 
 A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud spreadsheet—functions as a reference point for all our efforts. Here we document all the repositories we're establishing, as well as our external resources we currently use. Fig. 2 \(below\) proposes a structure with categories and subcategories to organize the individual building blocks. The process of setting up and updating this documentation can be underpinned by semi-regular cross-functional workshops. These should be conducted in an uncomplicated, straightforward manner and can be initiated with a few introductory questions, which aim to steer the discussion towards people, interactions and specific struggles:
 
@@ -73,7 +73,7 @@ Keeping the interfaces between our own and external resources clean will help us
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-MVDS provides a helpful frame of reference for establishing our system repositories and supports both **Single Source\(s\) of Truth** and **A Name and a Place**.
+MVDS provides a helpful frame of reference for establishing our system repositories and thus supports both **Single Source\(s\) of Truth** and **A Name and a Place**.
 
 {% page-ref page="single-source-s-of-truth.md" %}
 

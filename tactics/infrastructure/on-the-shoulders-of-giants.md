@@ -14,3 +14,5 @@ them potentially exposes us to several risks we need to undersand and consider
 
 Can make us overly dependent on things out of our control and cost us flexibility
 
+![Fig. 1: Front-end architecture, product view](../../.gitbook/assets/fig_architecture_product.svg)
+
