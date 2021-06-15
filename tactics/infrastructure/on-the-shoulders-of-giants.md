@@ -17,7 +17,7 @@ Implementing these ideas can be difficult at times, but it's almost certainly wo
 
 ## Use as intended
 
-By respecting an external project's ideas and underlying concepts, and by following its rules and guidelines, we achieve several things:
+By respecting an external project's ideas and underlying concepts, and by following its rules and guidelines, we are able to achieve several things:
 
 1. Updates can be performed quickly and smoothly.
 2. Existing project documentation remains valid and can be referenced in our own documentation
@@ -30,17 +30,19 @@ Keeping the interfaces between our own implementations and external frameworks c
 
 Consider the following \(very simple\) web development example: If we're using a CSS reset in our project and need to make some adjustments for it to work properly in our context, we should avoid touching the original source file. Instead, we should set up a separate CSS file \(or an SCSS partial\) that handles all overrides applied to 3rd party frameworks and define our changes there. This allows us to easily and safely update the CSS reset in the future—and even after replacing it with an alternative at some point, we might still be able to reuse our separately stored overrides.
 
-The following example is slightly more complex, but also much more powerful. The illustration below \(fig. 1\) shows a flexible front-end architecture based on a [Design Tokens](../artifacts/design-tokens.md) foundation. [Design Tokens](../artifacts/design-tokens.md) are codified design attributes that can be defined, understood and applied by developers and designers alike. In this example, a 3rd party front-end framework \(like [Material-UI](https://material-ui.com/)\) is used to render all layouts and widgets for an app or a website. Below this layer, all visual attributes related to our brand design language are stored in a central [Design Tokens](../artifacts/design-tokens.md) repository. We use the 3rd party framework's native theming capabilities to pull all relevant values from the tokens layer and by that, apply our distinctive look and feel to the product we're building. Above the framework layer, another separate layer handles custom overrides and the definitions of additional elements—basically everything that goes beyond the framework's capabilities.
+The next example is slightly more complex, but also much more powerful. The illustration below \(fig. 1\) shows a flexible front-end architecture based on a [Design Tokens](../artifacts/design-tokens.md) foundation. [Design Tokens](../artifacts/design-tokens.md) are codified design attributes that can be defined, understood and applied by developers and designers alike. In this example, a 3rd party front-end framework \(like [Material-UI](https://material-ui.com/)\) is used to render all layouts and widgets for an app or a website. Below this layer, all visual attributes related to our brand design language are stored in a central [Design Tokens](../artifacts/design-tokens.md) repository. We use the 3rd party framework's native theming capabilities to pull all relevant values from the tokens layer and by that, apply our distinctive look and feel to the product we're building. Above the framework layer, another separate layer handles custom overrides and the definitions of additional elements—basically everything that goes beyond the framework's capabilities.
 
 ![Fig. 1: Front-end architecture, product view](../../.gitbook/assets/fig_architecture_product.svg)
 
-If we zoom out a little further \(fig. 2\), we can see that an architecture as outlined above can easily stretch across a diverse product portfolio—so long as we keep our interfaces clean and simple. Here, four different implementations all draw from the same [Design Tokens](../artifacts/design-tokens.md) foundation. The result is a truly an extremely powerful paradigm that even allows us to explore different approaches for different platforms. As you can 
+If we zoom out a little further \(fig. 2\), we can see that an architecture as outlined above can easily stretch across a diverse product portfolio. Here, four different implementations all draw from the same [Design Tokens](../artifacts/design-tokens.md) foundation. The result is a heterogeneous environment in which everything still originates from the same DNA. Changes on the [Design Tokens](../artifacts/design-tokens.md) layer propagate upwards, producing design consistency without stifling flexibility. We're free to explore different frameworks and approaches for different use-cases, making this architecture highly versatile and ideally suited for fast-moving teams and organizations.
 
 ![Fig. 2: Front-end architecture, platform view](../../.gitbook/assets/fig_architecture_platform.svg)
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
+Constantly reviewing and refactoring our implementations will lead to cleaner and simpler interfaces between the building blocks of our design system.
 
+{% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
@@ -49,4 +51,8 @@ Keeping the interfaces between our own implementations and 3rd party resources c
 {% page-ref page="../principles/minimum-viable-design-system.md" %}
 {% endtab %}
 {% endtabs %}
+
+#### Authors and contributors
+
+D. Kurfess
 
