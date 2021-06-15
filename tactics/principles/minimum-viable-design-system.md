@@ -32,23 +32,23 @@ The following diagrams \(fig. 1 and fig. 2\) provide two ways to look at the str
 
 Description for Fig 2.
 
-![Fig. 2: Typical elements of a design system](../../.gitbook/assets/fig_elements.svg)
+![Fig. 2: Typical elements of a design system](../../.gitbook/assets/fig_elements%20%282%29%20%289%29%20%289%29.svg)
 
 ## Validate continuously
 
-The Lean Design System methodology strongly values Exploration over Planning. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Lean Design System methodology strongly values Exploration over Planning.
 
 ### Where this tactic fits in
 
 {% tabs %}
-{% tab title="💪  This tactic supports" %}
-
-{% endtab %}
-
 {% tab title="🙏  This tactic benefits from" %}
 Test Text A
 
 {% page-ref page="minimum-viable-design-system.md" %}
+{% endtab %}
+
+{% tab title="💪  This tactic supports" %}
+
 {% endtab %}
 {% endtabs %}
 
