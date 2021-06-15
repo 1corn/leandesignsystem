@@ -52,5 +52,3 @@ Test Text A
 {% endtab %}
 {% endtabs %}
 
-
-
