@@ -58,5 +58,25 @@ Test Text A
 {% endtab %}
 {% endtabs %}
 
+### Tabs test
+
+{% tabs %}
+{% tab title="💪  This tactic supports" %}
+Lorem ipsum
+
+{% page-ref page="../artifacts/design-tokens.md" %}
+
+Lorem ipsum
+
+{% page-ref page="../actions/enable.md" %}
+{% endtab %}
+
+{% tab title="🙏  This tactic benefits from" %}
+Test Text A
+
+{% page-ref page="minimum-viable-design-system.md" %}
+{% endtab %}
+{% endtabs %}
+
 
 
