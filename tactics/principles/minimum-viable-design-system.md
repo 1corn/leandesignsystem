@@ -71,9 +71,11 @@ UX Vignettes make for great _minimum viable conversations._ We can use them to v
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-This tactic provides a helpful frame of reference for establishing our component repositories.
+This tactic provides a helpful frame of reference for establishing our system repositories and by that supports the following tactics:
 
 {% page-ref page="single-source-s-of-truth.md" %}
+
+{% page-ref page="../infrastructure/a-name-and-a-place.md" %}
 {% endtab %}
 {% endtabs %}
 
