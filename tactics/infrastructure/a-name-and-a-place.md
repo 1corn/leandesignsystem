@@ -8,6 +8,8 @@ Test Text A
 
 Test Text B
 
+{% page-ref page="on-the-shoulders-of-giants.md" %}
+
 Test Text C
 {% endtab %}
 
@@ -15,6 +17,8 @@ Test Text C
 Test Text A
 
 Test Text B
+
+{% page-ref page="on-the-shoulders-of-giants.md" %}
 
 Test Text C
 {% endtab %}
