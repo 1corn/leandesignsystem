@@ -26,19 +26,24 @@ In order to understand and apply Minimum Viable Design System, we first need to 
 
 > Any socio-technical system that makes our product development successes repeatable and transferable is a design system.
 
-After we agreed on our priorities, we can confidently draw on freely available resources in other areas. A design system that grows organically will have gaps, that's inevitable. But there's no shame in utilizing existing libraries, frameworks and assets to fill them—at least for the moment. We can always replace them with home-cooked implementations at a later point, should the need arise. [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) outlines a sustainable approach to the utilization of external resources.
+After we agreed on our priorities, we can confidently draw on freely available resources in other areas. A design system that grows organically will have gaps in the beginning, that's inevitable. But there's no shame in utilizing existing libraries, frameworks and assets to fill them—at least for the moment. We can always replace them with home-cooked implementations at a later point, should the need arise. [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) outlines a sustainable approach to utilizing external resources.
 
-Examples for external resources include:
+Examples of external resources we can fall back on include:
 
 * Full-blown **front-end frameworks** like [Bootstrap](https://getbootstrap.com/) and [Material-UI](https://material-ui.com/). The tactic [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) describes how we can use their native theming capabilities and [Design Tokens](../artifacts/design-tokens.md) to align their look-and-feel with our brand identity.
-* Illustration libraries and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.
-* A unique icon library can be an important part of a distinctive brand appearance. Still, there's a huge \(and growing\) number of freely available or affordable resources worth checking out
+* Versatile **illustration libraries** and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.
+* A unique **icon library** can be an important building block of a distinctive brand appearance. Still, there's a huge \(and growing\) number of freely available or affordable resources worth checking out.
 
 The following diagram illustrates a typical design system anatomy and can serve as a map and canvas to locate our top priorities: 
 
 ![Fig 1.: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
 
-A \(very lightweight\) knowledge base—like a wiki, GitBook or even just a cloud spreadsheet—can serve as a reference point for all our efforts. Here we document all our repositories to which we commit, as well as our external resources we currently use.
+A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud spreadsheet—functions as a reference point for all our efforts. Here we document all the repositories we're establishing, as well as our external resources we currently use. Fig. 2 \(below\) proposes a structure with categories and subcategories to organize the individual building blocks. The process of setting up and updating this documentation can be underpinned by semi-regular cross-functional workshops. These should be conducted in an uncomplicated, straightforward manner and can be initiated with a few introductory questions, which aim to steer the discussion towards people, interactions and specific struggles:
+
+* Which new activities or processes recently emerged around design/development handoffs?
+* Can we think of tasks and steps that seem overly repetitive and cumbersome?
+* How can I personally simplify and support the work of my teammates?
+* Can I think of ways in which my team can help me streamline my work and remove obstacles?
 
 ![Fig. 2: Typical element structure of a design system](../../.gitbook/assets/fig_elements%20%282%29%20%289%29%20%289%29%20%282%29.svg)
 
@@ -52,9 +57,13 @@ The Lean Design System methodology values exploration over planning.
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-Test Text A
+Keeping the interfaces between our own and external resources clean will help us stay flexible and mitigate unwanted risks and dependencies.
 
-{% page-ref page="minimum-viable-design-system.md" %}
+{% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
+
+Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials
+
+{% page-ref page="../actions/think-systems.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
