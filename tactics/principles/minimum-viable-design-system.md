@@ -59,7 +59,7 @@ The Lean Design System methodology values exploration over planning. Instead of 
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-Keeping the interfaces between our own and external resources clean will help us stay flexible and mitigate unwanted risks and dependencies.
+Keeping the interfaces between our own implementations and 3rd party resources clean will help us stay flexible and mitigate risks and dependencies.
 
 {% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
 
