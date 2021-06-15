@@ -61,7 +61,7 @@ Keeping the interfaces between our own and external resources clean will help us
 
 {% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
 
-Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials
+Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials.
 
 {% page-ref page="../actions/think-systems.md" %}
 
@@ -71,7 +71,7 @@ UX Vignettes make for great _minimum viable conversations._ We can use them to v
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-This tactic provides a helpful frame of reference for establishing our system repositories and by that supports the following tactics:
+MVDS provides a helpful frame of reference for establishing our system repositories and supports both Single Source\(s\) of Truth and A Name and a Place.
 
 {% page-ref page="single-source-s-of-truth.md" %}
 
