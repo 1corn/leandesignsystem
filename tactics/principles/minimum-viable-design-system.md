@@ -34,19 +34,19 @@ Examples for external resources include:
 * Illustration libraries and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.
 * A unique icon library can be an important part of a distinctive brand appearance. Still, there's a huge \(and growing\) number of freely available or affordable resources worth checking out
 
-The following diagrams \(fig. 1 and fig. 2\) provide two ways to look at the structure of a design system. Fig. 1 outlines a possible anatomy of a design system
-
-
+The following diagram illustrates a typical design system anatomy and can serve as a map and canvas to locate our top priorities: 
 
 ![Fig 1.: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
 
-Description for Fig 2.
+A \(very lightweight\) knowledge base—like a wiki, GitBook or even just a cloud spreadsheet—can serve as a reference point for all our efforts. Here we document all our repositories to which we commit, as well as our external resources we currently use.
 
-![Fig. 2: Typical elements of a design system](../../.gitbook/assets/fig_elements%20%282%29%20%289%29%20%289%29%20%282%29.svg)
+![Fig. 2: Typical element structure of a design system](../../.gitbook/assets/fig_elements%20%282%29%20%289%29%20%289%29%20%282%29.svg)
 
 ## Validate continuously
 
-The Lean Design System methodology strongly values Exploration over Planning.
+The Lean Design System methodology values exploration over planning.
+
+> The Lean Design System methodology values exploration over planning.
 
 ## Where this tactic fits in
 
@@ -58,7 +58,7 @@ Test Text A
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-This tactic provides a frame of reference for establishing component repositories.
+This tactic provides a helpful frame of reference for establishing our component repositories.
 
 {% page-ref page="single-source-s-of-truth.md" %}
 {% endtab %}
