@@ -6,7 +6,7 @@ description: >-
 
 # Minimum Viable Design System
 
-The planning and implementation of a modern design system can easily turn into a formidable undertaking, requiring significant investments of time, capital and people. Oftentimes, the obstacles associated with it prove insurmountable for resource-constrained organizations. Furthermore, an overly monolithic approach, where months and even years are spent building extensive libraries, poses the risk of producing unfit solutions in the end. We can't predict the future and working towards uncertain outcomes may have costly consequences.
+The planning and implementation of a modern design system can quickly turn into a formidable undertaking, requiring significant investments \(in regard to time, capital and people\). Oftentimes, the obstacles associated with it prove insurmountable for resource-constrained organizations. Furthermore, an overly monolithic approach, where months and even years are spent building extensive libraries, poses the risk of producing unfit solutions in the end. We can't predict the future and working towards uncertain outcomes may have costly consequences.
 
 Minimum Viable Design System attempts to address these concerns and is centered around the following 3 core ideas—which also underpin the Lean Design System methodology as a whole:
 
