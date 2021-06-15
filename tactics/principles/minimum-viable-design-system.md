@@ -49,9 +49,9 @@ A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud
 
 ## Validate continuously
 
-The Lean Design System methodology values exploration over planning.
+The Lean Design System methodology values exploration over planning. Instead of waiting for a perfect, all-encompassing solution, we try to aim in the right direction, validate components right away and correct course as needed.
 
-> The Lean Design System methodology values exploration over planning.
+> The Lean Design System methodology values exploration over planning. We try to aim in the right direction and correct our course as needed.
 
 ## Where this tactic fits in
 
@@ -64,6 +64,10 @@ Keeping the interfaces between our own and external resources clean will help us
 Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials
 
 {% page-ref page="../actions/think-systems.md" %}
+
+UX Vignettes make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
+
+{% page-ref page="../artifacts/ux-vignettes.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
