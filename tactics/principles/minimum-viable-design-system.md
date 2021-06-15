@@ -28,7 +28,7 @@ In order to understand and apply Minimum Viable Design System, we first need to 
 
 After we agreed on our priorities, we can confidently draw on freely available resources in other areas. A design system that grows organically will have gaps in the beginning, that's inevitable. But there's no shame in utilizing existing libraries, frameworks and assets to fill them—at least for the moment. We can always replace them with home-cooked implementations at a later point, should the need arise. [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) outlines a sustainable approach to utilizing external resources.
 
-Examples of external resources we can fall back on include:
+Examples of 3rd party resources we can fall back on include:
 
 * Full-blown **front-end frameworks** like [Bootstrap](https://getbootstrap.com/) and [Material-UI](https://material-ui.com/) can be used to kickstart a front-end component library. The tactic [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) describes how we can use their native theming capabilities and [Design Tokens](../artifacts/design-tokens.md) to align their look-and-feel with our own brand identity.
 * Versatile **illustration libraries** and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.

@@ -1,12 +1,12 @@
 ---
 description: >-
-  We leverage external resources to their fullest and steer clear of common
+  We leverage 3rd party resources to their fullest and steer clear of common
   pitfalls.
 ---
 
 # On the Shoulders of Giants
 
-[Minimum Viable Design System](../principles/minimum-viable-design-system.md) promotes the systematic exploitation of external resources with the goal to make a design system and its components usable as soon as possible. Depending on our specific requirements and objectives, such resources might include all kinds of open source projects, modern front-end frameworks, or asset libraries \(icon sets, font families, etc.\). However, relying heavily on anything that is not under our direct control exposes us to some risks that need to be considered: The dependency on a specific resource can severely compromise our flexibility. We're at the mercy of external teams when it comes to future developments. Radical changes might require us to adapt our own implementations accordingly and the abandonment of a project or the discontinuation of vital features might even force us to jump ship entirely and look for alternatives.
+[Minimum Viable Design System](../principles/minimum-viable-design-system.md) promotes the systematic exploitation of 3rd party resources with the goal to make a design system and its components usable as soon as possible. Depending on our specific requirements and objectives, such resources might include all kinds of open source projects, modern front-end frameworks, or asset libraries \(icon sets, font families, etc.\). However, relying heavily on anything that is not under our direct control exposes us to some risks that need to be considered: The dependency on a specific resource can severely compromise our flexibility. We're at the mercy of external teams when it comes to future developments. Radical changes might require us to adapt our own implementations accordingly and the abandonment of a project or the discontinuation of vital features might even force us to jump ship entirely and look for alternatives.
 
 On the Shoulders of Giants proposes guidelines around the sustainable integration of external resources—with the aim to minimize potential risks and maximize the benefits. It is based on two core ideas:
 
