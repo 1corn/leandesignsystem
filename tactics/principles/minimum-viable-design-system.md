@@ -45,7 +45,7 @@ A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud
 * How can I personally simplify and support the work of my teammates?
 * Can I think of ways in which my team can help me streamline my work and remove obstacles?
 
-![Fig. 2: Typical element structure of a design system](../../.gitbook/assets/fig_elements%20%282%29%20%289%29%20%289%29%20%282%29.svg)
+![Fig. 2: Typical element structure of a design system](../../.gitbook/assets/fig_elements.svg)
 
 ## Validate continuously
 
