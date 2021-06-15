@@ -48,7 +48,7 @@ Description for Fig 2.
 
 The Lean Design System methodology strongly values Exploration over Planning.
 
-### Where this tactic fits in
+## Where this tactic fits in
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
