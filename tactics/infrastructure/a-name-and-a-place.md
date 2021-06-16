@@ -14,25 +14,31 @@ A working title will immediately simplify our discussions, as it's much easier t
 
 ## A Place
 
-To further establish our design system, we dedicate spaces to it right away. Depending on the nature of the first elements we want to organize, these might include a shared folder, a Git repository, a cloud spreadsheet, or a collaborative UI kit \(built and maintained in Adobe XD or Figma, for example\). [Single Source\(s\) of Truth](../principles/single-source-s-of-truth.md) proposes a circular approach in which every explorative effort and every project we work on continuously fills our repositories with new elements. [Minimum Viable Design System](../principles/minimum-viable-design-system.md) suggests to set up a lightweight knowledge center \(this could be a wiki, a GitBook, or just a shared spreadsheet\) where we reference all internal building blocks, as well as 3rd party resources we agreed to integrate into our system. To identify already existing elements and those we want to tackle next, it can be helpful to create a map with categories and subcategories \(see fig. 1\). Such a map can serve as a model for our \(lightweight\) reference documentation and guide our efforts. We can \(and should\) regularly revisit this map to 
-
-
-
-The process of setting up and updating this documentation can be underpinned by semi-regular cross-functional workshops. These should be conducted in an uncomplicated, straightforward manner and can be initiated with a few introductory questions, which aim to steer the discussion towards people, interactions and specific struggles:
+To further establish our design system, we dedicate spaces to it right away. Depending on the nature of the first elements we want to organize, these might include a shared folder, a Git repository, a cloud spreadsheet, or a collaborative UI kit \(built and maintained in Adobe XD or Figma, for example\). [Single Source\(s\) of Truth](../principles/single-source-s-of-truth.md) proposes a circular approach in which every explorative effort and every project we work on continuously fills our repositories with new elements. [Minimum Viable Design System](../principles/minimum-viable-design-system.md) suggests to set up a lightweight knowledge center \(this could be a wiki, a GitBook, or just a shared spreadsheet\) where we reference all internal building blocks, as well as 3rd party resources we agreed to integrate into our system. To identify already existing elements and those we want to tackle next, it can be helpful to create a map with categories and subcategories \(see fig. 1\). Such a map can serve as a model for our \(lightweight\) reference documentation and guide our efforts. We can \(and should\) regularly revisit this map in the context of informal, cross-functional workshops to make sure we're all on the same page.
 
 ![Fig. 1: The elements of a design system](../../.gitbook/assets/fig_elements.svg)
 
-Depending on our specific challenges and goals, the priorities . A Name and a Place advises us to 
+In summary, giving our design system a working title and dedicating spaces to it \(even during the first stages of planning and before fully committing to its development\) can make an otherwise abstract concept more tangible and easier to discuss. Moreover, it comes at basically no cost.
 
+{% tabs %}
+{% tab title="🙏  This tactic benefits from" %}
+Minimum Viable Design System provides a helpful frame of reference for establishing our system repositories.
 
+{% page-ref page="../principles/minimum-viable-design-system.md" %}
+{% endtab %}
 
-## 
+{% tab title="💪  This tactic supports" %}
+A working title and dedicated spaces will make it easier to communicate and promote our design system from its inception.
 
-Maybe some elements of your future design system already exist and they just need a name and a central hub that ties them together. Such an effort increases understanding of the 
+{% page-ref page="../actions/canvas.md" %}
 
+A Name and a Place offers a good starting point for a continuous expansion as proposed in Single Source\(s\) of Truth. 
 
+{% page-ref page="../principles/single-source-s-of-truth.md" %}
+{% endtab %}
+{% endtabs %}
 
-At no cost, this will make a concept that is probably still very abstract to some of our coworkers and team mates more tangible and better comprehensible.
+#### Authors and contributors
 
-
+D. Kurfess
 

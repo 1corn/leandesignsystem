@@ -15,6 +15,7 @@
   * [Enable!](tactics/actions/enable.md)
   * [Think Systems!](tactics/actions/think-systems.md)
   * [Clean up!](tactics/actions/clean-up.md)
+  * [Canvas!](tactics/actions/canvas.md)
 * [Artifacts](tactics/artifacts/README.md)
   * [Design Tokens](tactics/artifacts/design-tokens.md)
   * [UI Kits](tactics/artifacts/ui-kits.md)

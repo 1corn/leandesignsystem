@@ -10,7 +10,7 @@ description: >-
 
 On the Shoulders of Giants proposes guidelines around the sustainable integration of external resources—with the aim to minimize potential risks and maximize the benefits. It is based on two core ideas:
 
-* **Use as intended:** When importing an external resource into our system, we should conduct due diligence and try to understand its underlying concepts first, so that we can use it exactly as intended.
+* **Use as intended:** When importing an external resource into our system, we should exercise due diligence and try to understand its underlying concepts first, so that we can use it exactly as intended.
 * **Clean interfaces:** By keeping all interfaces between our own implementations and external resources as clean and simple as possible, we preserve our flexibility and avoid becoming overly dependent.
 
 Implementing these ideas can be difficult at times, but it's almost certainly worth the extra effort. And once practiced regularly, chances are it will become a habit to follow the Giant's paradigm.
