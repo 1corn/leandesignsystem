@@ -8,3 +8,5 @@ description: >-
 
 Populate ...
 
+![Fig. 1: Steady Flow of Truth](../../.gitbook/assets/fig_steady_flow.svg)
+
