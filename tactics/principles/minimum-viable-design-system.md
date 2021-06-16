@@ -26,7 +26,7 @@ In order to understand and apply Minimum Viable Design System, we first need to 
 
 > Any socio-technical system that makes our product development successes repeatable and transferable is a design system.
 
-After we agreed on our priorities, we can confidently draw on freely available resources in other areas. A design system that grows organically will have gaps in the beginning, that's inevitable. But there's no shame in utilizing existing libraries, frameworks and assets to fill them—at least for the moment. We can always replace them with home-cooked implementations at a later point, should the need arise. [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) outlines a sustainable approach to utilizing external resources.
+After we agreed on our priorities, we can confidently draw on freely available resources in other areas. A design system that grows organically will have gaps in the beginning, that's inevitable. But there's no shame in utilizing existing libraries, frameworks and assets to fill them—at least for the moment. We can always replace them with home-cooked implementations at a later point, should the need \(or desire\) arise. [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md) outlines a sustainable approach to utilizing external resources.
 
 Examples of 3rd party resources we can fall back on include:
 
