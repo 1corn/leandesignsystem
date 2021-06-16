@@ -38,7 +38,7 @@ The structure of a design system can be sliced many different ways. Understandin
 
 ![Fig. 1: A typical anatomy of a design system](../../.gitbook/assets/fig_anatomy.svg)
 
-A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud spreadsheet—functions as a reference point for all our efforts. Here we document all the repositories we're establishing, as well as our external resources we currently use. Fig. 2 \(below\) proposes a structure with categories and subcategories to organize the individual building blocks. The process of setting up and updating this documentation can be underpinned by semi-regular cross-functional workshops. These should be conducted in an uncomplicated, straightforward manner and can be initiated with a few introductory questions, which aim to steer the discussion towards people, interactions and specific struggles:
+A \(very lightweight\) knowledge hub—like a wiki, GitBook or even just a cloud spreadsheet—functions as a reference point for all our efforts. Here we document all the repositories we're establishing, as well as our external resources we currently use. Fig. 2 \(below\) proposes a structure with categories and subcategories to organize the individual building blocks. The process of setting up and updating such a documentation can be underpinned with semi-regular cross-functional workshops. These should be conducted in an uncomplicated, straightforward manner and can be initiated with a few introductory questions, which aim to steer the discussion towards people, interactions and specific struggles:
 
 * Which new activities or processes recently emerged around design/development handoffs?
 * Can we think of tasks and steps that seem overly repetitive and cumbersome?
