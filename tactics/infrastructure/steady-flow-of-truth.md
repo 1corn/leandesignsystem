@@ -10,12 +10,12 @@ description: >-
 
 Lean Design System proposes a more flexible approach to this concept. Instead of having one Single Source of Truth, we establish a steady flow of new components and optimizations populating several semi-independent repositories. In this way, we aim to:
 
-* ... **foster cross-functional design and development processes** to better understand our respective struggles and establish collective ownership to break down information silos.
-* ... **promote exploration and continuous optimization**.
-* ... **avoid building and validating unrealistic prototypes** that do not adequately reflect the actual capabilities of our technology in order to save us time and frustration.
+* ... **foster cross-functional design and development processes** to better understand our respective struggles and establish collective ownership to break down information silos
+* ... **promote exploration and continuous optimization**
+* ... **avoid building and validating unrealistic prototypes** that do not adequately reflect the actual capabilities of our technology in order to save us time and frustration
 
 {% hint style="warning" %}
-It should be noted that **Steady Flow of Truth** heavily relies on [Design Codification](../principles/design-codification.md) to work as intended. If we're certain that we don't want to adopt [Design Codification](../principles/design-codification.md) for our design system, we might have to make adjustments or skip this tactic altogether.
+It should be noted that **Steady Flow of Truth** heavily relies on [Design Codification](../principles/design-codification.md) to work as intended. If we don't want to adopt [Design Codification](../principles/design-codification.md) as a guiding principle, we might have to make adjustments or skip this tactic altogether.
 {% endhint %}
 
 The following diagram \(fig. 1\) outlines how the stream of development ideally populates the different repositories of our design system, as well as each station's role in the process. But let's go through them one by one.
