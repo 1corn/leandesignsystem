@@ -1,2 +1,2 @@
-# UI Kits
+# UI Kit
 

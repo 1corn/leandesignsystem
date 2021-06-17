@@ -4,3 +4,9 @@
 >
 >   __— Melvin E. Conway, ['Conway's law'](https://en.wikipedia.org/wiki/Conway%27s_law)
 
+Befähigung, Crossfunktionalität, Shared Ownership, People over Processes
+
+Agile Manifesto anschauen
+
+Podcast: Jina Anne
+
