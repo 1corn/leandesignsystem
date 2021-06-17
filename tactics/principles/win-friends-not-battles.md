@@ -1,3 +1,7 @@
+---
+description: WORK IN PROGRESS
+---
+
 # Win Friends, not Battles
 
 > _Any organization that designs a system \(defined broadly\) will produce a design whose structure is a copy of the organization's communication structure._
@@ -6,7 +10,7 @@
 
 Befähigung, Crossfunktionalität, Shared Ownership, People over Processes
 
-Agile Manifesto anschauen
+Agile Manifesto 
 
-Podcast: Jina Anne
+Podcast
 
