@@ -77,7 +77,7 @@ UX Vignettes make for great _minimum viable conversations._ We can use them to v
 {% tab title="💪  This tactic supports" %}
 MVDS provides a helpful frame of reference for establishing our system repositories and thus supports both Steady Flow of Truth and A Name and a Place.
 
-{% page-ref page="steady-flow-of-truth.md" %}
+{% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
 
 {% page-ref page="../infrastructure/a-name-and-a-place.md" %}
 {% endtab %}

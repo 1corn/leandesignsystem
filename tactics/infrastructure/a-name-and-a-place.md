@@ -14,7 +14,7 @@ A working title will immediately simplify our discussions, as it's much easier t
 
 ## A Place
 
-To further establish our design system, we dedicate spaces to it right away. Depending on the nature of the first elements we want to organize, these might include a shared folder, a Git repository, a cloud spreadsheet, or a collaborative UI kit \(built and maintained in Adobe XD or Figma, for example\). [Steady Flow of Truth](../principles/steady-flow-of-truth.md) proposes a circular approach in which every explorative effort and every project we work on continuously fills our repositories with new elements. [Minimum Viable Design System](../principles/minimum-viable-design-system.md) suggests to set up a lightweight knowledge center \(this could be a wiki, a GitBook, or just a shared spreadsheet\) where we reference all internal building blocks, as well as 3rd party resources we agreed to integrate into our system. To identify already existing elements and those we want to tackle next, it can be helpful to create a map with categories and subcategories \(see fig. 1\). Such a map can serve as a model for our \(lightweight\) reference documentation and guide our efforts. We can \(and should\) regularly revisit this map in the context of informal, cross-functional workshops to make sure we're all on the same page.
+To further establish our design system, we dedicate spaces to it right away. Depending on the nature of the first elements we want to organize, these might include a shared folder, a Git repository, a cloud spreadsheet, or a collaborative UI kit \(built and maintained in Adobe XD or Figma, for example\). [Steady Flow of Truth](steady-flow-of-truth.md) proposes a circular approach in which every explorative effort and every project we work on continuously fills our repositories with new elements. [Minimum Viable Design System](../principles/minimum-viable-design-system.md) suggests to set up a lightweight knowledge center \(this could be a wiki, a GitBook, or just a shared spreadsheet\) where we reference all internal building blocks, as well as 3rd party resources we agreed to integrate into our system. To identify already existing elements and those we want to tackle next, it can be helpful to create a map with categories and subcategories \(see fig. 1\). Such a map can serve as a model for our \(lightweight\) reference documentation and guide our efforts. We can \(and should\) regularly revisit this map in the context of informal, cross-functional workshops to make sure we're all on the same page.
 
 ![Fig. 1: The elements of a design system](../../.gitbook/assets/fig_elements.svg)
 
@@ -34,7 +34,7 @@ A working title and dedicated spaces will make it easier to communicate and prom
 
 A Name and a Place offers a good starting point for a continuous expansion as proposed in Steady Flow of Truth. 
 
-{% page-ref page="../principles/steady-flow-of-truth.md" %}
+{% page-ref page="steady-flow-of-truth.md" %}
 {% endtab %}
 {% endtabs %}
 

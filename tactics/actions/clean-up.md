@@ -1,2 +1,2 @@
-# Clean up!
+# Tidy up!
 
