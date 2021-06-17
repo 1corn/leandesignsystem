@@ -40,5 +40,9 @@ UX vignettes are focused prototypes, covering a defined user scenario or workflo
 
 ## Tweaks
 
-We document all changes and additions to our [UI Kit](../artifacts/ui-kits.md) in a separate tweaks repository, which is a shared design file of the same type as the [UI Kit](../artifacts/ui-kits.md) itself. Tweaks can be the result of ongoing project work and stem from ideas we had during the design of UX vignettes. Or they can arise from regular optimization and expansion work on our design system components. Whatever their origin, if we agree on their validity, we feed them into the code repository through the process of codification.
+We document all changes and additions to our [UI Kit](../artifacts/ui-kits.md) in a separate tweaks repository, which is a shared design file of the same type as the [UI Kit](../artifacts/ui-kits.md) itself. Tweaks can be the result of project work or regular optimization efforts. Whatever their origin, if we agree on their validity, we feed them into the code repository through the process of codification. Once codified, we can then make them available in our UI Kit by _tracing_ them.
+
+## Dev Specs
+
+The exact form and fidelity of our development specifications heavily depend on the type of project and the technologies used. But typically, they should consist of a clickable \(and testable\) prototype and potentially some supporting explanations. Video recordings from the prototype can help to further clarify the desired flow and functionality. Ideally, our developers should be able to effortlessly understand which components from the code repository they must apply in order to build the final product. Due to how the flow is set up, our dev specs may not always utilize the latest tweaks we came up with; however, this is not really a concern as the code repository eventually provides the binding blueprint for individual components and may already contain all new improvements.
 
