@@ -46,3 +46,33 @@ We document all changes and additions to our [UI Kit](../artifacts/ui-kits.md) i
 
 The exact form and fidelity of our development specifications heavily depend on the type of project and the technologies used. But typically, they should consist of a clickable \(and testable\) prototype and potentially some supporting explanations. Video recordings from the prototype can help to further clarify the desired flow and functionality. Ideally, our developers should be able to effortlessly understand which components from the code repository they must apply in order to build the final product. Due to how the flow is set up, our dev specs may not always utilize the latest tweaks we came up with; however, this is not really a concern as the code repository eventually provides the binding blueprint for individual components and may already contain all new improvements.
 
+By establishing a Steady Flow of Truth, we populate and optimize our component repositories continuously. Every project we work on and every prototype we design can produce tweaks that flow downstream until they reach our code repository—from where they benefit everything we build. With the right infrastructure in place, such improvements can even be propagated into live products.
+
+{% tabs %}
+{% tab title="🙏  This tactic benefits from" %}
+Design Codification and Design Tokens are both key concepts underpinning this tactic.
+
+{% page-ref page="../principles/design-codification.md" %}
+
+{% page-ref page="../artifacts/design-tokens.md" %}
+
+MVDS provides a helpful frame of reference for establishing our system repositories.
+
+{% page-ref page="../principles/minimum-viable-design-system.md" %}
+{% endtab %}
+
+{% tab title="💪  This tactic supports" %}
+The way Steady Flow of Truth structures the flow of design improvements, designers are encouraged to assume collective ownership of the code base.
+
+{% page-ref page="../principles/win-friends-not-battles.md" %}
+
+Understanding Steady Flow of Truth is a good starting point for setting up our first component and documentation repositories.
+
+{% page-ref page="a-name-and-a-place.md" %}
+{% endtab %}
+{% endtabs %}
+
+#### Authors and contributors
+
+D. Kurfess
+
