@@ -7,6 +7,7 @@
 
 * [Principles](tactics/principles/README.md)
   * [Minimum Viable Design System](tactics/principles/minimum-viable-design-system.md)
+  * [Design Codification](tactics/principles/design-codification.md)
   * [Steady Flow of Truth](tactics/principles/steady-flow-of-truth.md)
 * [Infrastructure](tactics/infrastructure/README.md)
   * [On the Shoulders of Giants](tactics/infrastructure/on-the-shoulders-of-giants.md)
