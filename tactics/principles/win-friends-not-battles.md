@@ -45,11 +45,19 @@ But the scope of cross-functionality goes further: Inspired by [Genchi Genbutsu]
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
+Especially the ideas of collective ownership and cross-functional collaboration benefit greatly from adopting Design Codification and using Design Tokens.
 
+{% page-ref page="design-codification.md" %}
+
+{% page-ref page="../artifacts/design-tokens.md" %}
+
+Being diligent about refactoring and making beach cleaning sessions a habit reduce the need for overly strict governance processes. 
+
+{% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-
+{% page-ref page="../actions/canvas.md" %}
 {% endtab %}
 {% endtabs %}
 
