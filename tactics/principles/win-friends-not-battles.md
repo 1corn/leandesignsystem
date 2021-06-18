@@ -1,5 +1,5 @@
 ---
-description: WORK IN PROGRESS
+description: Outlining proper Lean Design System etiquette.
 ---
 
 # Win Friends, not Battles
@@ -8,13 +8,7 @@ description: WORK IN PROGRESS
 >
 >   __— Melvin E. Conway, ['Conway's law'](https://en.wikipedia.org/wiki/Conway%27s_law)
 
-Befähigung, Crossfunktionalität, Shared Ownership, People over Processes
 
-Agile Manifesto 
-
-Podcast
-
-real world projects &lt;-&gt; design system efforts
 
 ![Fig. 1: Gatekeepers x Catalysts](../../.gitbook/assets/fig_role.svg)
 
