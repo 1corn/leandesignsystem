@@ -27,9 +27,9 @@ Enabling others means allowing things to happen in parallel and removing bottlen
 
 ## Adopt and cultivate collective ownership
 
-> Adopting collective ownership of our design system components can substantially boost everyday work efficiency and catalyze the [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) through our repositories.
+> Adopting collective ownership of our design system components can substantially boost everyday work efficiency and catalyze the [**Steady Flow of Truth**](../infrastructure/steady-flow-of-truth.md) through our repositories.
 
-Collective ownership means spreading the responsibility of design system components across the whole team. While, due to the diverse skill sets typically needed to build design systems, there may be certain limits to this approach, the principle of [Design Codification](design-codification.md) and especially the concept of [Design Tokens](../artifacts/design-tokens.md) will still get us quite far. By sharing ownership, we're free to make changes as needed to complete our tasks. It allows us to move at our natural pace without having to wait for others.  We can also fix issues or refactor legacy elements right as we come across them. Adopting collective ownership of our design system components can substantially boost everyday work efficiency and catalyze the [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) through our repositories.
+Collective ownership means spreading the responsibility of design system components across the whole team. While—due to the diverse skill sets typically needed to build design systems—there may be certain limits to this approach, the principle of [Design Codification](design-codification.md) and especially the concept of [Design Tokens](../artifacts/design-tokens.md) will still get us quite far. By sharing ownership, we're free to make changes as needed to complete our tasks. It allows us to move at our natural pace without having to wait for others.  We can also fix issues or refactor legacy elements right as we come across them. Adopting collective ownership of our design system components can substantially boost everyday work efficiency and catalyze the [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) through our repositories.
 
 ## Foster cross-functional collaboration
 
