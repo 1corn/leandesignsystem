@@ -38,6 +38,10 @@ Especially during the early stages of cultivating our design system, all textual
 
 UX vignettes are focused prototypes, covering a defined user scenario or workflow end-to-end. We build UX vignettes using the components provided by our [UI Kit](../artifacts/ui-kits.md). Ideally, UX vignettes should be clickable and run on all targeted platforms. When determining our design tooling, prototyping capabilities should be a main criteria, as the process of building, testing and updating them should be quick and easy. If we want to make improvements or add new elements to our [UI Kit](../artifacts/ui-kits.md)'s component library \(because, for example, a project presents us with a new and unique challenge\), we document them in separate tweaks files. These tweaks files are shared design files in our design system stream.
 
+{% hint style="info" %}
+Some tools and plugins are introducing functionalities for creating design files from React code. While they don't seem to have reached the maturity needed for productive use yet, this is certainly a trend to keep an eye on.
+{% endhint %}
+
 ## Tweaks
 
 We document all changes and additions to our [UI Kit](../artifacts/ui-kits.md) in separate tweaks files, which are shared design files of the same type as the [UI Kit](../artifacts/ui-kits.md) itself. Tweaks can be the result of project work or regular optimization efforts. Whatever their origin, if we agree on their validity, we feed them into the code repository through the process of codification. Once codified, we can then make them available in our UI Kit by _tracing_ them.
