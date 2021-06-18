@@ -1,7 +1,6 @@
-<svg id="LDS_Elements" data-name="LDS Elements" xmlns="http://www.w3.org/2000/svg" width="1220px" height="370px" viewBox="0 0 610 185">
+<svg id="LdsFigMvds" data-name="lds-fig-mvds" xmlns="http://www.w3.org/2000/svg" width="1220px" height="370px" viewBox="0 0 610 185">
     <defs>
         <style>
-        	
         .cls-1 {
             fill: #fff;
         }
@@ -58,39 +57,11 @@
 
         .cls-13 {
             font-size: 10px;
-            font-family: Mulish-Regular, Mulish;
-        }
-
-        .cls-14 {
-            letter-spacing: -0.01em;
-        }
-
-        .cls-15 {
-            letter-spacing: -0.01em;
-        }
-
-        .cls-16 {
-            letter-spacing: 0em;
-        }
-
-        .cls-17 {
-            letter-spacing: -0.01em;
-        }
-
-        .cls-18 {
-            letter-spacing: -0.01em;
-        }
-
-        .cls-19 {
-            letter-spacing: -0.01em;
-        }
-
-        .cls-20 {
-            letter-spacing: 0em;
+            font-family: ArialMT, Arial;
         }
         </style>
     </defs>
-    <rect class="cls-1" width="610.38" height="186" />
+    <rect class="cls-1" width="610.38" height="185" />
     <rect class="cls-2" y="21.1" width="16.26" height="16.26" />
     <rect class="cls-3" x="16.26" y="21.1" width="16.26" height="16.26" />
     <rect class="cls-4" x="32.52" y="21.1" width="16.26" height="16.26" />
@@ -223,15 +194,5 @@
     <line class="cls-12" x1="453.51" y1="132.4" x2="539.77" y2="132.4" />
     <path d="M531.57,138.16a.6.6,0,0,1,.18-.83l7.74-4.93-7.74-4.93a.6.6,0,0,1,.65-1l8.53,5.43a.59.59,0,0,1,.28.51.6.6,0,0,1-.28.51l-8.53,5.43a.57.57,0,0,1-.32.1A.6.6,0,0,1,531.57,138.16Z" />
     <line class="cls-12" x1="69.07" y1="132.4" x2="155.33" y2="132.4" />
-    <path d="M147.13,138.16a.61.61,0,0,1,.19-.83l7.74-4.93-7.74-4.93a.61.61,0,0,1-.19-.83.6.6,0,0,1,.83-.18l8.54,5.43a.61.61,0,0,1,.28.51.62.62,0,0,1-.28.51L148,138.34a.55.55,0,0,1-.32.1A.61.61,0,0,1,147.13,138.16Z" /><text class="cls-13" transform="translate(62.21 157.52) rotate(-0.58)">B<tspan class="cls-14" x="6.81" y="0">r</tspan>
-        <tspan x="10.33" y="0">eak up the monolith</tspan>
-    </text><text class="cls-13" transform="translate(220.45 157.21) rotate(-0.58)">
-        <tspan class="cls-15">P</tspan>
-        <tspan class="cls-16" x="6.41" y="0">rioriti</tspan>
-        <tspan class="cls-17" x="30.01" y="0">z</tspan>
-        <tspan x="35.07" y="0">e</tspan>
-    </text><text class="cls-13" transform="translate(332.32 157.37) rotate(-0.58)">Fill critical gaps</text><text class="cls-13" transform="translate(448.77 157.49) rotate(-0.58)">Expand and imp<tspan class="cls-18" x="75.32" y="0">r</tspan>
-        <tspan class="cls-19" x="78.84" y="0">ov</tspan>
-        <tspan class="cls-20" x="89.75" y="0">e</tspan>
-    </text>
+    <path d="M147.13,138.16a.61.61,0,0,1,.19-.83l7.74-4.93-7.74-4.93a.61.61,0,0,1-.19-.83.6.6,0,0,1,.83-.18l8.54,5.43a.61.61,0,0,1,.28.51.62.62,0,0,1-.28.51L148,138.34a.55.55,0,0,1-.32.1A.61.61,0,0,1,147.13,138.16Z" /><text class="cls-13" transform="translate(64.32 157.5) rotate(-0.58)">Break up the monolith</text><text class="cls-13" transform="translate(221.26 157.21) rotate(-0.58)">Prioritize</text><text class="cls-13" transform="translate(333.72 157.36) rotate(-0.58)">Fill critical gaps</text><text class="cls-13" transform="translate(450.5 157.47) rotate(-0.58)">Expand and improve</text>
 </svg>
