@@ -53,7 +53,7 @@ Especially the ideas of collective ownership and cross-functional collaboration 
 
 {% page-ref page="../artifacts/design-tokens.md" %}
 
-Being diligent about refactoring and making beach cleaning sessions a habit reduce the need for overly strict governance processes. 
+Being diligent about refactoring reduces the need for overly strict governance processes. 
 
 {% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
