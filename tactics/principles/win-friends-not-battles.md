@@ -31,14 +31,15 @@ Collective ownership means spreading the responsibility of design system compone
 
 ## Foster cross-functional collaboration
 
-In place of a top-down governance approach, changes and improvements are driven by our everyday experiences and actual user needs.  
-Federated contributors across the organization or even
-
-Inspired by Genchi Genbutsu, one of the key principles of the Toyota Production System, Lean Design System also strongly encourages people working on the design system routinely joining product development projects—and vice versa. Such role swaps will prove tremendously helpful in learning about the specific challenges within the respective areas. Needless to say, this applies to designers just as well as to engineers. The project perspective is especially valuable, as we will learn not only about the struggles of using the design system, but also about how end customers perceive the components defined in our repositories.
+Before the advent of design systems, traditional design-to-development handoffs \(as illustrated in fig. 1\) were the typical approach to translating design work into productive code. Working in such a manner often entailed tedious repetition, and it always carried the risk of misunderstood intentions and frustrating back-and-forths between teams.
 
 ![Fig. 2: Traditional Handoff](../../.gitbook/assets/fig_handoff.svg)
 
-![Fig. 3: Cross-functional Process](../../.gitbook/assets/fig_cross_functionality.svg)
+Design systems proposed the cross-functional development of ready-to-use components and patterns organized in libraries with the goal of making product development a more continuous and better predictable affair. Larger enterprises may have the resources to employ separate teams to work on the visual design, the user experience aspects, and the technical implementations of components—a luxury most smaller organizations certainly won't be able to afford—however, Lean Design System strongly encourages cross-functional collaboration even within teams. Having at least a basic understanding of the opposite party's domain can greatly benefit the communication. The concept of Design Tokens can help gap the bridge between design and development; it can serve as a translator of our designers' intentions, as well as make the technical realities on the engineering side more tangible.
+
+![Fig. 3: Cross-functional Process with a Design System in place](../../.gitbook/assets/fig_cross_functionality.svg)
+
+But the scope of cross-functionality goes further: Inspired by [Genchi Genbutsu](https://en.wikipedia.org/wiki/Genchi_Genbutsu), one of the key principles of the [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System), Lean Design System also strongly encourages individuals working on the design system routinely joining product development projects—and vice versa. Such role swaps will prove tremendously helpful in learning about the specific challenges within the respective areas. Needless to say, this applies to designers just as well as to engineers. The project perspective is especially valuable, as we will not only learn about the struggles of applying the design system, but also about how end customers perceive the components defined in our repositories. So instead of dictating strict governance processes, changes and improvements are driven by our everyday experiences and actual user needs. And ideally, everyone in the organization eventually becomes an ally in the development of our design system.
 
 ## Where this tactic fits in
 
