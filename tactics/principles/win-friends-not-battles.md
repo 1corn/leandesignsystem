@@ -18,5 +18,7 @@ real world projects &lt;-&gt; design system efforts
 
 ![Fig. 1: Gatekeepers x Catalysts](../../.gitbook/assets/fig_role.svg)
 
-![Fig. 2: Cross-functionality](../../.gitbook/assets/fig_handoff.svg)
+![Fig. 2: Traditional Handoff](../../.gitbook/assets/fig_handoff.svg)
+
+![Fig. 3: Cross-functional Process](../../.gitbook/assets/fig_cross_functionality.svg)
 
