@@ -16,3 +16,7 @@ Podcast
 
 real world projects &lt;-&gt; design system efforts
 
+![Fig. 1: Gatekeepers x Catalysts](../../.gitbook/assets/fig_role.svg)
+
+![Fig. 2: Cross-functionality](../../.gitbook/assets/fig_handoff.svg)
+
