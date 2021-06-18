@@ -50,9 +50,11 @@ We document all changes and additions to our [UI Kit](../artifacts/ui-kits.md) i
 
 The exact form and fidelity of our development specifications heavily depend on the type of project and the technologies used. But typically, they should consist of a clickable \(and testable\) prototype and potentially some supporting explanations. Video recordings of the prototype can help to further clarify the desired flow and functionality. Ideally, our developers should be able to effortlessly understand which components \(from the code repository\) they must apply in order to build the final product. Due to how the flow is set up, our dev specs may not always utilize the latest tweaks we came up with; however, this is not really a concern as the code repository eventually provides the binding blueprint for individual components and may already contain all new improvements.
 
-## In Conclusion
+## In conclusion
 
 By establishing a Steady Flow of Truth, we populate and optimize our component repositories continuously. Every project we work on and every prototype we design can produce tweaks that flow downstream until they reach our code repository—from where they benefit everything we build henceforth. With the right infrastructure in place, such improvements can even be propagated into live products.
+
+## Where this tactic fits in
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}

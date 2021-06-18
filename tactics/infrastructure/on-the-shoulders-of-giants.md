@@ -38,6 +38,8 @@ If we zoom out a little further \(fig. 2\), we can see that an architecture as o
 
 ![Fig. 2: Front-end architecture, platform view](../../.gitbook/assets/fig_architecture_platform.svg)
 
+## Where this tactic fits in
+
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
 Constantly reviewing and refactoring our implementations will lead to cleaner and simpler interfaces between the building blocks of our design system.

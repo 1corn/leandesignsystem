@@ -20,6 +20,8 @@ To further establish our design system, we dedicate spaces to it right away. Dep
 
 In summary, giving our design system a working title and dedicating spaces to it \(even during the first stages of planning and before fully committing to its development\) can make an otherwise abstract concept more tangible and easier to discuss. Moreover, it comes at basically no cost.
 
+## Where this tactic fits in
+
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
 Minimum Viable Design System provides a helpful frame of reference for establishing our system repositories.

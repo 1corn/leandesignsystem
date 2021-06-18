@@ -22,3 +22,19 @@ real world projects &lt;-&gt; design system efforts
 
 ![Fig. 3: Cross-functional Process](../../.gitbook/assets/fig_cross_functionality.svg)
 
+## Where this tactic fits in
+
+{% tabs %}
+{% tab title="🙏  This tactic benefits from" %}
+
+{% endtab %}
+
+{% tab title="💪  This tactic supports" %}
+
+{% endtab %}
+{% endtabs %}
+
+#### Authors and contributors
+
+Daniel Kurfess
+
