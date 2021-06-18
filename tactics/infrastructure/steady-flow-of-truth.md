@@ -52,7 +52,7 @@ The exact form and fidelity of our development specifications heavily depend on 
 
 ## In Conclusion
 
-By establishing a Steady Flow of Truth, we populate and optimize our component repositories continuously. Every project we work on and every prototype we design can produce tweaks that flow downstream until they reach our code repository—from where they benefit everything we build. With the right infrastructure in place, such improvements can even be propagated into live products.
+By establishing a Steady Flow of Truth, we populate and optimize our component repositories continuously. Every project we work on and every prototype we design can produce tweaks that flow downstream until they reach our code repository—from where they benefit everything we build henceforth. With the right infrastructure in place, such improvements can even be propagated into live products.
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
