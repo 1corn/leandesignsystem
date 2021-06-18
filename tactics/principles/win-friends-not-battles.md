@@ -17,29 +17,15 @@ Whether we’re trying to [save bats](https://www.youtube.com/watch?v=_7Z7m6Fz_U
 
 ## Catalyze improvement
 
-The [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) teaches us that _"Any improvements made anywhere besides the bottleneck are an illusion"_ \(as summarized in [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)\). We try to identify such any bottlenecks through the rigorous probing of every activity and interaction. Incremental development steps as proposed in [Minimum Viable Design System](minimum-viable-design-system.md) and [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) allow us to reflect on our practices regularly and make changes as needed. This requires sufficient autonomy, however. In general, teams and individuals that  
-  
-Following this methodology, we become architects of exploration. We want to foster a culture of experimentation 
+The [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) teaches us that _"any improvements made anywhere besides the bottleneck are an illusion"_ \(as summarized in [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)\). We try to identify any such bottlenecks through the rigorous evaluation of activities and interactions. Incremental development steps as proposed in [Minimum Viable Design System](minimum-viable-design-system.md) and [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) allow us to reflect on our practices regularly and make adjustments as needed. This requires sufficient autonomy, however. Agile coach extraordinaire [Henrik Kniberg](https://twitter.com/henrikkniberg) wonderfully illustrates the concept of autonomous teams guided by a clear vision and principles in his video series [Spotify Engineering Culture](https://www.youtube.com/watch?v=4GK1NDTWbkY), where he also explains how the process of cross-pollination will spread successful ideas and approaches across an organization. A high autonomy, high alignment environment constitutes an ideal organizational hotbed for naturally emerging solutions. In summary, we want to foster a culture of experimentation, where curiosity is valued over defensiveness. The juxtaposition illustrated in fig. 1 attempts to outline an ideal role model for people involved in the development of a lively and adaptive design system.
 
-Kniberg wonderfully illustrates this idea in his Spotify video
+![Fig. 1: Gatekeepers x Catalysts](../../.gitbook/assets/fig_role.svg)
 
-A high autonomy, high alignment environment constitutes an ideal organizational hotbed for a naturally emerging design strategy. We value curiosity over defensiveness and the in helps us reflect our behaviors and decisions.
-
-
-
-The juxtaposition illustrated in fig. 1 attempts to outline an ideal role model for people involved in the development of a lively and adaptive design system.
-
-
-
-cross-pollination
-
-
+## Enable others
 
 ## Adopt and cultivate collective ownership
 
 ## Foster cross-functional collaboration
-
-![Fig. 1: Gatekeepers x Catalysts](../../.gitbook/assets/fig_role.svg)
 
 ![Fig. 2: Traditional Handoff](../../.gitbook/assets/fig_handoff.svg)
 
