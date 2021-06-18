@@ -48,7 +48,7 @@ We document all changes and additions to our [UI Kit](../artifacts/ui-kits.md) i
 
 ## Dev Specs
 
-The exact form and fidelity of our development specifications heavily depend on the type of project and the technologies used. But typically, they should consist of a clickable \(and testable\) prototype and potentially some supporting explanations. Video recordings from the prototype can help to further clarify the desired flow and functionality. Ideally, our developers should be able to effortlessly understand which components from the code repository they must apply in order to build the final product. Due to how the flow is set up, our dev specs may not always utilize the latest tweaks we came up with; however, this is not really a concern as the code repository eventually provides the binding blueprint for individual components and may already contain all new improvements.
+The exact form and fidelity of our development specifications heavily depend on the type of project and the technologies used. But typically, they should consist of a clickable \(and testable\) prototype and potentially some supporting explanations. Video recordings of the prototype can help to further clarify the desired flow and functionality. Ideally, our developers should be able to effortlessly understand which components \(from the code repository\) they must apply in order to build the final product. Due to how the flow is set up, our dev specs may not always utilize the latest tweaks we came up with; however, this is not really a concern as the code repository eventually provides the binding blueprint for individual components and may already contain all new improvements.
 
 ## In Conclusion
 
