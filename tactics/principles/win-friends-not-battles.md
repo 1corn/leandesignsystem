@@ -23,7 +23,7 @@ The [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
 
 ## Enable others
 
-Enabling others means allowing things to happen in parallel and removing bottlenecks from our processes. This may include the optimization \(or better yet: the elimination\) of handoff processes or the setup of automated pipelines which allow designers to immediately validate recent changes in a realistic setting. Wherever we look, the creation of a steady flow of work and the removal of obstacles by understanding and solving each others struggles is key to cultivate an effective design system. In this context, the principle of [Design Codification](design-codification.md) helps designers as well as developers to work more independently, while at the same time, it improves the conversation as it establishes a shared language between the two domains. 
+Enabling others means allowing things to happen in parallel and removing bottlenecks from our processes. This may include the optimization \(or better yet: the elimination\) of handoff processes or the setup of automated pipelines which allow designers to immediately validate recent changes in a realistic setting. Wherever we look, the creation of a steady flow of work and the removal of obstacles by understanding and solving each others' struggles is key to cultivate an effective design system. In this context, the principle of [Design Codification](design-codification.md) helps designers as well as developers to work more independently, while at the same time, it improves the conversation as it establishes a shared language between the two domains. 
 
 ## Adopt and cultivate collective ownership
 
