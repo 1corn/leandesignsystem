@@ -2,6 +2,7 @@
 
 * [Get Started](README.md)
 * [Core Values](core-values.md)
+* [Contribute](contribute.md)
 
 ## Tactics
 
