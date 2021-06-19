@@ -6,7 +6,7 @@ description: >-
 
 # Minimum Viable Design System
 
-The planning and implementation of a modern design system can quickly turn into a formidable undertaking, requiring significant investments \(in regard to time, capital and people\). Oftentimes, the obstacles associated with it prove insurmountable for resource-constrained organizations. Furthermore, an overly monolithic approach, where months and even years are spent building extensive libraries, poses the risk of producing unfit solutions in the end. We can't predict the future and working towards uncertain outcomes may have costly consequences.
+The planning and implementation of a modern design system can quickly turn into a formidable undertaking, requiring significant investments \(regarding time, capital and people\). Oftentimes, the obstacles associated with it prove insurmountable for resource-constrained organizations. Furthermore, an overly monolithic approach, where months and even years are spent building extensive libraries, poses the risk of producing unfit solutions in the end. We can't predict the future and working towards uncertain outcomes may have costly consequences.
 
 Minimum Viable Design System attempts to address these concerns and is centered around the following 3 core ideas—which also underpin the Lean Design System methodology as a whole:
 
@@ -18,7 +18,7 @@ Let's have a closer look at each of the 3 ideas to learn how they make the conce
 
 ## Start today
 
-If we're already building digital products in a team, there really isn't any reason to delay the systemization of design work. Modern digital tools and organizational paradigms allow for tremendous scalability—when applied properly. There are many simple steps we can take today in order to start establishing our own design system, no risks involved. Lean Design System promotes the steady cultivation of design system structures along real problems, projects and experiences—and Minimum Viable Design System provides us with a helpful reference frame around the entire methodology. Other tactics such as [A Name and a Place](../infrastructure/a-name-and-a-place.md), [Design Tokens,](../artifacts/design-tokens.md) and [Think Systems!](../actions/think-systems.md) can all serve as starting points to develop corresponding routines and artifacts.
+When we're already building digital products in a team, there really isn't any reason to delay the systemization of design work. Modern digital tools and organizational paradigms allow for tremendous scalability—when applied properly. There are many simple steps we can take today in order to start establishing our own design system, no risks involved. Lean Design System promotes the steady cultivation of design system structures along real problems, projects and experiences—and Minimum Viable Design System provides us with a helpful reference frame around the entire methodology. Other tactics such as [A Name and a Place](../infrastructure/a-name-and-a-place.md), [Design Tokens,](../artifacts/design-tokens.md) and [Think Systems!](../actions/think-systems.md) can all serve as starting points to develop corresponding routines and artifacts.
 
 ## Solve today's problems
 
