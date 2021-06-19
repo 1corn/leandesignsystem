@@ -58,7 +58,7 @@ By establishing a Steady Flow of Truth, we populate and optimize our component r
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-Design Codification and Design Tokens are both key concepts underpinning this tactic.
+Design Codification and Design Tokens are both key concepts for enabling a smooth flow through our repositories.
 
 {% page-ref page="../principles/design-codification.md" %}
 
