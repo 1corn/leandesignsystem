@@ -14,6 +14,8 @@ Designing and building with systems in mind helps us arrive at more purposeful \
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
+Conceiving a Design Tokens structure and building a UI Kit alongside a project can help us refine our systems thinking capabilities.
+
 {% page-ref page="../artifacts/design-tokens.md" %}
 
 {% page-ref page="../artifacts/ui-kits.md" %}
