@@ -65,7 +65,7 @@ Keeping the interfaces between our own implementations and 3rd party resources c
 
 {% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
 
-Think Systems! outlines a mindset we can adopt on an individual level to help us identify optimization potentials.
+Think Systems! outlines a mindset we can adopt on an individual level that helps us start shaping our design system's first minimum viable building blocks.
 
 {% page-ref page="../actions/think-systems.md" %}
 
