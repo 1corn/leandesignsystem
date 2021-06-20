@@ -27,7 +27,25 @@ Ultimately, the process of Design Codification can result in a fully codified de
 
 * [Design Tokens](../artifacts/design-tokens.md) are a great way to get started with Design Codification. [Design Tokens](../artifacts/design-tokens.md) are codified design attributes that can be defined, understood and applied by developers and designers alike.
 * Information architecture can be documented as a data model straight away. With the support of engineering, an information architect can maintain information so that they can be used directly for other purposes, like structuring databases or generating sitemaps.
-* Icons and vector illustrations can be stored as SVGs, enabling script-based manipulations like color changes, animations and lossless scaling.
+* Icons and vector illustrations can be stored as SVGs, enabling script-based manipulations like color changes, animations and lossless scaling. In the example below, we just need to add a dark-mode class to our HTML at runtime to make all circle elements in our UI appear in the color GhostWhite. Of course, the color value and its semantic assignment can be pulled from a [Design Tokens](../artifacts/design-tokens.md) repository instead of a static CSS file.
+
+{% tabs %}
+{% tab title="SVG code snippet" %}
+```markup
+<style>
+  .dark-mode circle {
+    fill: GhostWhite;
+  }
+</style>
+
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  
+  <circle cx="10" cy="10" r="10"/>
+
+</svg>
+```
+{% endtab %}
+{% endtabs %}
 
 To catalyze the process of Design Codification, it may prove helpful to establish the role of a dedicated [front-of-the-front-end developer](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/) within the team—which might be filled by a former code-savvy designer, a former design-savvy developer, or a new hire—working specifically on the interfaces between design and development. According to Brad Frost's [definition](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/), a front-of-the-front-end developer is _"a web developer who specializes in writing HTML, CSS, and presentational JavaScript code"_. A good understanding of \(visual and UX\) design and state-of-the-art UI implementation paradigms will help them to fully grasp the respective goals and challenges.
 
