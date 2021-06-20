@@ -1,10 +1,12 @@
+---
+description: >-
+  Design Codification is the belief that all aspects shaping digital products
+  should be defined as code, versioned and collectively owned.
+---
+
 # Design Codification
 
-Information Architecture - define as data model
 
-Pipelines
-
-Collective Ownership --&gt; Makes changes traceable, reversible
 
 ## Where this tactic fits in
 
