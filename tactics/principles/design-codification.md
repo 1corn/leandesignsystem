@@ -33,11 +33,13 @@ To catalyze the process of Design Codification, it can be helpful to establish t
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-
+{% page-ref page="../artifacts/design-tokens.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+{% page-ref page="win-friends-not-battles.md" %}
 
+{% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
 {% endtab %}
 {% endtabs %}
 
