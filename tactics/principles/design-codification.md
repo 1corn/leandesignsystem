@@ -27,6 +27,8 @@ Ultimately, the process of Design Codification can result in a fully codified de
 * Information architecture can be documented as a data model straight away. With the support of engineering, an information architect can maintain information in such a way that they can be used directly for other purposes, like structuring databases or generating sitemaps.
 * Icons and vector illustrations can be stored as SVGs, enabling script-based manipulations like color changes, animations and lossless scaling.
 
+To catalyze the process of Design Codification, it can be helpful to establish the role of a dedicated front-of-the-front-end developer within the team \(which might be filled by a former code-savvy designer, a former design-savvy developer, or an entirely new resource\) working specifically on the interfaces between design and development. According to Brad Frost's [definition](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/), a front-of-the-front-end developer is _"a web developer who specializes in writing HTML, CSS, and presentational JavaScript code"_. A good understanding of \(visual and UX\) design and state-of-the-art UI implementation paradigms will help to fully grasp the respective goals and challenges.
+
 ## Where this tactic fits in
 
 {% tabs %}
