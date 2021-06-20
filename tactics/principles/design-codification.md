@@ -33,13 +33,17 @@ To catalyze the process of Design Codification, it can be helpful to establish t
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-Design Tokens are a good way to get started with Design Codification and allow for a gradual approach to codifying style definitions and adopting a collective ownership model.
+Design Tokens are a good way to get started with Design Codification and allow for a gradual approach to codifying style definitions and adopting collective ownership.
 
 {% page-ref page="../artifacts/design-tokens.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+Ideas such as collective ownership and cross-functional collaboration benefit greatly from adopting Design Codification, as outlined above.
+
 {% page-ref page="win-friends-not-battles.md" %}
+
+Design Codification is a key concepts for enabling a Steady Flow of Truth through our repositories.
 
 {% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
 {% endtab %}
