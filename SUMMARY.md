@@ -14,7 +14,7 @@
   * [Steady Flow of Truth](tactics/infrastructure/steady-flow-of-truth.md)
   * [On the Shoulders of Giants](tactics/infrastructure/on-the-shoulders-of-giants.md)
   * [A Name and a Place](tactics/infrastructure/a-name-and-a-place.md)
-* [Actions](tactics/actions/README.md)
+* [Behaviors](tactics/actions/README.md)
   * [Think Systems!](tactics/actions/think-systems.md)
   * [Tidy up!](tactics/actions/clean-up.md)
   * [Canvas!](tactics/actions/canvas.md)
