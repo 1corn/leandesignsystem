@@ -2,7 +2,7 @@
 
 * [Get Started](README.md)
 * [Core Values](core-values.md)
-* [Contribute](contribute.md)
+* [Get Involved](contribute.md)
 
 ## Tactics
 

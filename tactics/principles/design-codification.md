@@ -27,6 +27,7 @@ Ultimately, the process of Design Codification can result in a fully codified de
 
 * [Design Tokens](../artifacts/design-tokens.md) are a great way to get started with Design Codification. [Design Tokens](../artifacts/design-tokens.md) are codified design attributes that can be defined, understood and applied by developers and designers alike.
 * Information architecture can be documented as a data model straight away. With the support of engineering, an information architect can maintain information so that they can be used directly for other purposes, like structuring databases or generating sitemaps.
+* Additional design system documentation can be written in markdown language and stored in a code repository directly alongside other codified design components, see [A Living Handbook](../artifacts/a-living-handbook.md).
 * Icons and vector illustrations can be stored as SVGs, enabling script-based manipulations like color changes, animations and lossless scaling. In the example below, we just need to add a dark-mode class to our HTML at runtime to make all circle elements in our UI appear in the color GhostWhite. Of course, the color value and its semantic assignment can be pulled from a [Design Tokens](../artifacts/design-tokens.md) repository instead of a static CSS file.
 
 {% tabs %}

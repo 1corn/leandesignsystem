@@ -32,7 +32,7 @@ Our [UI Kit](../artifacts/ui-kits.md) lives in a modern UI design tool such as F
 
 ## Documentation
 
-Especially during the early stages of cultivating our design system, all textual documentation can \(and should\) be kept lightweight and high level. Most annotations and comments can even live directly in the code repository \(as code comments\) or in our [UI Kit](../artifacts/ui-kits.md) \(as meta text elements\). [Minimum Viable Design System](../principles/minimum-viable-design-system.md) suggests to maintain a simple knowledge hub in which we reference all elements and processes our design system encompasses. Beyond that, a set of design principles can help explain the reasoning behind our design and development decisions. Just like with our [UI Kit](../artifacts/ui-kits.md), any textual documentation must not contradict the definitions in our code repository.
+Especially during the early stages of cultivating our design system, all textual documentation can \(and should\) be kept lightweight and high level. Most annotations and comments can even live directly in the code repository \(as code comments\) or in our [UI Kit](../artifacts/ui-kits.md) \(as meta text elements\). [Minimum Viable Design System](../principles/minimum-viable-design-system.md) suggests to maintain a simple knowledge hub in which we reference all elements and processes our design system encompasses. Beyond that, a set of design principles can help explain the reasoning behind our design and development decisions. Just like with our [UI Kit](../artifacts/ui-kits.md), any textual documentation must not contradict the definitions in our code repository. See also: [A Living Handbook](../artifacts/a-living-handbook.md).
 
 ## UX Vignettes
 
