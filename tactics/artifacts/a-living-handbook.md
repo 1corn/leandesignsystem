@@ -11,9 +11,9 @@ The Lean Design System methodology prioritizes experimentation over documentatio
 * **Technical setup:** If applicable, we explain development environments and technical setups like Gulp automations or how to trigger build pipelines. Here we may also specify our currently preferred design tooling and code guidelines.
 * **Mission:** We articulate a design system mission statement outlining the norms and values that guide our work, making our implicit practices explicit.
 
-Through the process of articulating thoughts we can clarify ideas, avoid misunderstandings and illustrate abstract concepts to each other—especially if done collaboratively and cross-functionally. We don’t have to make a document perfect before sharing it—we make it good enough to convey our ideas and then improve it in a collaborative fashion.
+Through the process of articulating thoughts we can clarify ideas, avoid misunderstandings and explain abstract concepts—especially if done collaboratively and cross-functionally. We don’t have to make a document perfect before sharing it—we make it good enough to convey our ideas and then improve it in a collaborative fashion.
 
-The Lean Design System documentation is freely available under a Creative Commons license \(no attribution\) and can serve as a foundation for a lightweight design system documentation. It is written in markdown language and stored in a Git repository, which makes it easy to fork, customize and extend, i.e. individual parts can be adopted without change, edited as needed, or deleted altogether. The diagram below \(fig. 1\) illustrates the structure of the documentation: 
+The Lean Design System documentation is freely available under a Creative Commons license \(no attribution\) and can serve as a foundation for a lightweight design system documentation. It is written in markdown language and stored in a Git repository, which makes it easy to fork, customize and extend. Individual parts can be adopted without change, edited as needed, or deleted altogether. The diagram below \(fig. 1\) illustrates the structure of the documentation: 
 
 ![Fig. 1: Lean Design System repository structure](../../.gitbook/assets/fig_repo.svg)
 
