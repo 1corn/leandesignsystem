@@ -27,6 +27,14 @@ In summary, giving our design system a working title and dedicating spaces to it
 Minimum Viable Design System provides a helpful frame of reference for establishing our system repositories.
 
 {% page-ref page="../principles/minimum-viable-design-system.md" %}
+
+Design Tokens, UI Kit, and A Living Handbook all describe forms of design system repositories we can use as starting points.
+
+{% page-ref page="../artifacts/design-tokens.md" %}
+
+{% page-ref page="../artifacts/ui-kits.md" %}
+
+{% page-ref page="../artifacts/a-living-handbook.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
