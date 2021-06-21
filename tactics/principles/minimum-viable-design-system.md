@@ -70,6 +70,8 @@ Think Systems! outlines a mindset we can adopt on an individual level that helps
 {% page-ref page="../actions/think-systems.md" %}
 
 UX Vignettes make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
+
+{% page-ref page="../artifacts/ui-kits.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
