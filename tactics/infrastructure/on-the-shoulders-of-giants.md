@@ -38,6 +38,10 @@ If we zoom out a little further \(fig. 2\), we can see that an architecture as o
 
 ![Fig. 2: Front-end architecture, platform view](../../.gitbook/assets/fig_architecture_platform.svg)
 
+## Workflows over tools
+
+Minimizing external dependencies also relates to our tooling. We should focus on the goals we set and the workflows that get us there, rather than the underlying tools and technologies. By staying flexible and not becoming too dependent, we enable ourselves to always adopt the ideal tooling for a specific problem. A technology-agnostic approach like this promotes continued exploration and protects us from getting locked into a paradigm or platform that, at some point, may no longer serve our goals.
+
 ## Where this tactic fits in
 
 {% tabs %}
