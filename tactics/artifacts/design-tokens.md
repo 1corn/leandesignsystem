@@ -102,15 +102,19 @@ With the help of Design Tokens, we can truly embrace cross-functionality and col
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+Design Tokens are a good way to get started with Design Codification and allow for a gradual approach to codifying style definitions and adopting collective ownership.
+
 {% page-ref page="../principles/design-codification.md" %}
-
-
 
 Design Tokens provide ways to keep the interfaces between our technical implementations clean and simple.
 
 {% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
 
+Design Tokens represent a key concept for enabling a smooth flow of optimization through our repositories.
+
 {% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
+
+Especially the ideas of collective ownership and cross-functional collaboration benefit greatly from using Design Tokens.
 
 {% page-ref page="../principles/win-friends-not-battles.md" %}
 {% endtab %}
