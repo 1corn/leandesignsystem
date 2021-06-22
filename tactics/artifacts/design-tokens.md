@@ -100,7 +100,7 @@ With the help of Design Tokens, we can genuinely embrace cross-functionality and
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-Gradually and naturally evolving structures of an emergent design system may lead to clutter. Tidy up! guides the way to continuous improvement and an optimal design.
+Gradually and naturally evolving the structures of an emergent design system may lead to clutter. Tidy up! guides the way to continuous improvement and an optimal design.
 
 {% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
