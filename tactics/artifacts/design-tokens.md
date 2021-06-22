@@ -84,9 +84,15 @@ $border-radius-button-cta: $border-radius-button;
 {% endtab %}
 {% endtabs %}
 
-
+The following animation \(fig. 1\) illustrates how we can now make changes on various levels of our design system with ease. The three columns represent three individual design tokens and show how they . The animation is based on Example 2, but skips the first layer for
 
 ![Fig. 1: Border radius defined on increasingly specific levels](../../.gitbook/assets/anim_tokens_lever.png)
+
+A structure as outlined above is not only very human-readable, it also provides us with levers to make changes on all layers of our design system without harming . There are also semantic barriers resulting in consistency and self-organizing 
+
+As a developer, I wouldn't just assign a button color to a and instead highlight a potential gap in the the Design Tokens repository
+
+With the help of Design Tokens, we can truly embrace cross-functionality and collective ownership. Furthermore, they enable many other powerful concepts such as A Steady Flow Truth and a flexible front-end architecture as outlined in On the Shoulders of Giants. 
 
 ## Where this tactic fits in
 
