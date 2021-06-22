@@ -24,7 +24,7 @@ First, we take a look at colors. More specifically, we will learn how a color de
 {% tab title="Example 1: Colors" %}
 ```css
 /****
-* Subatomic definitions: Our color palette 
+* 1 Subatomic definitions: Our color palette 
 ****/
 
 $cornflower: #5784FF; 
@@ -32,7 +32,7 @@ $cornflower: #5784FF;
 
 
 /****
-* Getting more specific: Our color scheme 
+* 2 Getting more specific: Our color scheme 
 ****/
 
 $primary-color: $cornflower;
@@ -40,7 +40,7 @@ $primary-color: $cornflower;
 
 
 /****
-* UI mapping: Mapping sub-atomic defintions to UI components 
+* 3 UI mapping: Mapping sub-atomic defintions to UI components 
 ****/
 
 $color-btn-cta: $primary-color;
@@ -51,27 +51,35 @@ $color-btn-cta: $primary-color;
 {% tab title="Example 2: Border Radii" %}
 ```css
 /****
-* Subatomic definitions: Our color palette 
+* 1 Subatomic definitions: All border radius values
 ****/
 
-$cornflower: #5784FF; 
-/* We assign a value to a new color in our color palette */
+$border-radius-xxs: 0; 
+/* We set the smallest possible border radius value to 0 */
 
 
 /****
-* Getting more specific: Our color scheme 
+* 2 Getting more specific: Specifying our default radius
 ****/
 
-$primary-color: $cornflower;
-/* On the next level, we assign the value cornflower to our primary color */
+$border-radius-default: $border-radius-xxs;
+/* We're going for a blocky look and map the smallest radius our default */
 
 
 /****
-* UI mapping: Mapping sub-atomic defintions to UI components 
+* 3 UI mapping: Specifying button border radius
 ****/
 
-$color-btn-cta: $primary-color;
-/* In the last step, our primary color is assigend to the cta button */
+$border-radius-button: $border-radius-default;
+/* Next, we assign our default radius to all button elements */
+
+
+/****
+* 4 More specific UI mapping: Specifying cta button border radius
+****/
+
+$border-radius-button-cta: $border-radius-button;
+/* Lastly, we assign the button border radius to our cta buttons as well */
 ```
 {% endtab %}
 {% endtabs %}
