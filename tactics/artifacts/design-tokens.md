@@ -21,7 +21,7 @@ The currently preferred approach to maintaining Design Tokens is storing them in
 First, we take a look at colors. More specifically, we will learn how a color definition is passed through the semantic layers of a Design Tokens structure all the way from the most abstract level of the color palette to the tangible level of a UI mapping. Subsequently, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. Now let's see what the corresponding SCSS would look like—switch between the two tabs to check out both examples:
 
 {% tabs %}
-{% tab title="Example 1: Colors" %}
+{% tab title="Example 1: Colors  🎨" %}
 ```css
 /****
 * 1 Subatomic definitions: Our color palette 
@@ -48,7 +48,7 @@ $color-btn-cta: $primary-color;
 ```
 {% endtab %}
 
-{% tab title="Example 2: Border Radii" %}
+{% tab title="Example 2: Border Radii  📐" %}
 ```css
 /****
 * 1 Subatomic definitions: All border radius values
