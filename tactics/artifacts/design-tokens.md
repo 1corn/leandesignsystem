@@ -88,11 +88,11 @@ The following animation \(fig. 1\) illustrates how we can now make changes on va
 
 ![Fig. 1: Border radius defined on increasingly specific levels](../../.gitbook/assets/anim_tokens_lever.png)
 
-A structure as outlined above is not only very human-readable, it also provides us with levers to make changes on all layers of our design system without harming . There are also semantic barriers resulting in consistency and self-organizing 
+A structure as outlined above will not only prove more human-readable—it also provides us with levers to make changes through all layers of our design system without doing unintentional harm. And the way we map abstract values to tangible attributes creates semantic guardrails, making a design system based on Design Tokens self-governing to a certain degree. I.e., as a developer, I wouldn't just assign a color called _"button color"_ to a text paragraph, but instead highlight a potential gap in the the Design Tokens repository if the proper token seems to be missing.
 
-As a developer, I wouldn't just assign a button color to a and instead highlight a potential gap in the the Design Tokens repository
+> The way we map abstract values to tangible attributes creates semantic guardrails, making a design system based on Design Tokens self-governing to a certain degree.
 
-With the help of Design Tokens, we can truly embrace cross-functionality and collective ownership. Furthermore, they enable many other powerful concepts such as A Steady Flow Truth and a flexible front-end architecture as outlined in On the Shoulders of Giants. 
+With the help of Design Tokens, we can truly embrace cross-functionality and collective ownership. Furthermore, they enable many other powerful concepts, such as [A Steady Flow Truth](../infrastructure/steady-flow-of-truth.md) and a flexible front-end architecture as outlined in [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md).
 
 ## Where this tactic fits in
 
