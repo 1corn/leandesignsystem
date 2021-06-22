@@ -4,6 +4,8 @@ description: WORK IN PROGRESS
 
 # Tidy up!
 
+Outline ways to cultivate a natural flow of components and structures, emergent design system
+
 ## Where this tactic fits in
 
 {% tabs %}
