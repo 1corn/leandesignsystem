@@ -6,7 +6,7 @@ description: >-
 
 # Design Codification
 
-In software design, there's a saying that _"if it isn’t documented, it doesn’t exist"_. Design Codification is driven by the idea that _"if it isn't codified, it won't persist"_. It's a guiding principle based on the belief that digital product development should be underpinned by semantic software code that can be written, reviewed, adapted, and owned by developers and \(visual **and** UX\) designers alike.
+In software design, there's a saying that _"if it isn’t documented, it doesn’t exist."_ Design Codification is driven by the idea that _"if it isn't codified, it won't persist."_ It's a guiding principle based on the belief that digital product development should be underpinned by semantic software code that can be written, reviewed, adapted, and owned by developers and \(visual **and** UX\) designers alike.
 
 > The systematic codification of design represents a lean approach to avoiding unwanted deviations from guidelines, as it minimizes \(or even eliminates\) the need for strict governance processes.
 
@@ -48,7 +48,7 @@ Ultimately, the process of Design Codification can result in a fully codified de
 {% endtab %}
 {% endtabs %}
 
-To catalyze the process of Design Codification, it may prove helpful to establish the role of a dedicated [front-of-the-front-end developer](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/) within the team—which might be filled by a former code-savvy designer, a former design-savvy developer, or a new hire—working specifically on the interfaces between design and development. According to Brad Frost's [definition](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/), a front-of-the-front-end developer is _"a web developer who specializes in writing HTML, CSS, and presentational JavaScript code"_. A good understanding of \(visual and UX\) design and state-of-the-art UI implementation paradigms will help them to fully grasp the respective goals and challenges.
+To catalyze the process of Design Codification, it may prove helpful to establish the role of a dedicated [front-of-the-front-end developer](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/) within the team—which might be filled by a former code-savvy designer, a former design-savvy developer, or a new hire—working specifically on the interfaces between design and development. According to Brad Frost's [definition](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/), a front-of-the-front-end developer is _"a web developer who specializes in writing HTML, CSS, and presentational JavaScript code."_ A good understanding of \(visual and UX\) design and state-of-the-art UI implementation paradigms will help them to fully grasp the respective goals and challenges.
 
 ## Where this tactic fits in
 
