@@ -84,7 +84,7 @@ $border-radius-button-cta: $border-radius-button;
 {% endtab %}
 {% endtabs %}
 
-The following animation \(fig. 1\) illustrates how we can now make changes on various levels of our design system with ease. The three columns represent three individual design tokens and show how they . The animation is based on Example 2, but skips the first layer for
+The following animation \(fig. 1\) illustrates how we can now make changes on various levels of our design system with ease. The three columns represent three individual design tokens and show how each of them affects the rendering of a simplified profile card component. \(The animation is based on Example 2, but skips the first layer for better clarity.\) By changing the value for our default border radius \(red\), we substantially change the look of our UI, as several higher level tokens all reference the same root token. The lever gets shorter with each level, as we can see in the second column: Changing the button border radius \(blue\) only affects the rendering of the two buttons in our example. And lastly, changing the call-to-action button border radius—unsurprisingly—manipulates nothing but the one call-to-action button element.
 
 ![Fig. 1: Border radius defined on increasingly specific levels](../../.gitbook/assets/anim_tokens_lever.png)
 
