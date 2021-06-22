@@ -7,12 +7,15 @@ description: >-
 
 # Design Tokens
 
-[Design Codification](../principles/design-codification.md) is a key principle of Lean Design System, as it enables cross-functional teams to work collaboratively and adopt collective ownership of a design system. However, planning and implementing a comprehensive component library can prove a substantial challenge even for experienced teams. But even if we're just getting used to design-as-code and radical cross-functionality \(as proposed in [Win Friends, not Battles](../principles/win-friends-not-battles.md)\), we can always start to take incremental steps towards this goal. One such approach is maintaining design aspects as Design Tokens. 
-
+[Design Codification](../principles/design-codification.md) represents one of the key principles of Lean Design System, as it enables cross-functional teams to work collaboratively and adopt collective ownership of a design system. However, planning and implementing a comprehensive component library can prove a substantial challenge, even for experienced teams. Taking incremental steps towards this goal will help us get started, especially if we're just getting used to concepts such as design-as-code and radical cross-functionality \(as proposed in [Win Friends, not Battles](../principles/win-friends-not-battles.md)\). Maintaining design aspects in the form of Design Tokens makes for one such approach. According to Jina Anne,  
   
-Planning and Implementing an can be extremely challengeing, especially for teams just getting used to design-as-code and radical cross-functionality as proposed in [Win Friends, not Battles](../principles/win-friends-not-battles.md). Design Tokens 
 
-A design system based on design tokens forces designers and developers to continually form consensus, which promotes a healthy interweaving of skills and responsibilities. Designers are encouraged to form at least a basic understanding of the code in order to define and approve tokens. Front-end developers learn about the intent behind design rules and the relationships between properties by applying design tokens to UI implementations.
+
+{% embed url="https://twitter.com/jina/status/1062808011301965825" %}
+
+
+
+A well thought-out Design Tokens structure constitutes the bedrock of a lean code repository. It provides the DNA for our components and a shared language between domains. A design system based on Design Tokens forces designers and developers to continually form consensus, which promotes a healthy interweaving of skills and responsibilities. Designers are encouraged to form at least a basic understanding of the code in order to define and approve tokens. Front-end developers learn about the intent behind design rules and the relationships between properties by applying design tokens to UI implementations.
 
 Design tokens provide designers and developers with powerful levers to make changes quickly and effectively throughout all layers of the design system and our front-end implementations. These layers include the brand design properties at the core of the design system, higher level themes and custom adaptations, as well as the specific UI component mappings on the surface of a digital product. The following examples will illustrate what structure we need in order to make full use of the concept.
 
