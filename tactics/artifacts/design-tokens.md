@@ -18,13 +18,42 @@ Design tokens also provide designers and developers with powerful levers to make
 The currently preferred approach to maintaining Design Tokens is storing them in a JSON file, as it's the most widely supported format. From there, all information can be pulled via JavaScript or compiled to CSS. The examples below are written in SCSS to make them easier to read for designers who are not yet familiar with JSON.
 {% endhint %}
 
-In the first example, we take a look at colors. More specifically, we will learn how a color definition is getting passed through the semantic layers of a Design Tokens structure all the way from the most abstract level of the color palette to the tangible level of a UI mapping.
+In the first example, we take a look at colors. More specifically, we will learn how a color definition is getting passed through the semantic layers of a Design Tokens structure all the way from the most abstract level of the color palette to the tangible level of a UI mapping. After that, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. 
+
+Let's see what that would look like in SCSS—switch between the two tabs to check out both examples:
 
 {% tabs %}
 {% tab title="Example 1: Colors" %}
 ```css
 /****
-* Sub-atomic definitions: Our color palette 
+* Subatomic definitions: Our color palette 
+****/
+
+$cornflower: #5784FF; 
+/* We assign a value to a new color in our color palette */
+
+
+/****
+* Getting more specific: Our color scheme 
+****/
+
+$primary-color: $cornflower;
+/* On the next level, we assign the value cornflower to our primary color */
+
+
+/****
+* UI mapping: Mapping sub-atomic defintions to UI components 
+****/
+
+$color-btn-cta: $primary-color;
+/* In the last step, our primary color is assigend to the cta button */
+```
+{% endtab %}
+
+{% tab title="Example 2: Border Radii" %}
+```css
+/****
+* Subatomic definitions: Our color palette 
 ****/
 
 $cornflower: #5784FF; 
@@ -48,6 +77,8 @@ $color-btn-cta: $primary-color;
 ```
 {% endtab %}
 {% endtabs %}
+
+
 
 ![Fig. 1: Border radius defined on increasingly specific levels](../../.gitbook/assets/anim_tokens_lever.png)
 
