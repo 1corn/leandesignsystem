@@ -49,6 +49,10 @@ The idea of minimizing external dependencies also extends to our tooling. We sho
 Constantly reviewing and refactoring our implementations will lead to cleaner and simpler interfaces between the building blocks of our design system.
 
 {% page-ref page="../actions/clean-up.md" %}
+
+Design Tokens provide ways to keep the interfaces between our technical implementations clean and simple.
+
+{% page-ref page="../artifacts/design-tokens.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}

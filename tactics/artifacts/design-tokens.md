@@ -84,11 +84,21 @@ $color-btn-cta: $primary-color;
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-
+{% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+{% page-ref page="../principles/design-codification.md" %}
 
+
+
+Design Tokens provide ways to keep the interfaces between our technical implementations clean and simple.
+
+{% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
+
+{% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
+
+{% page-ref page="../principles/win-friends-not-battles.md" %}
 {% endtab %}
 {% endtabs %}
 
