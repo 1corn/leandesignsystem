@@ -18,9 +18,7 @@ Design tokens also provide designers and developers with powerful levers to make
 The currently preferred approach to maintaining Design Tokens is storing them in a JSON file, as it's the most widely supported format. From there, all information can be pulled via JavaScript or compiled to CSS. The examples below are written in SCSS to make them easier to read for designers who are not yet familiar with JSON.
 {% endhint %}
 
-In the first example, we take a look at colors. More specifically, we will learn how a color definition is getting passed through the semantic layers of a Design Tokens structure all the way from the most abstract level of the color palette to the tangible level of a UI mapping. After that, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. 
-
-Let's see what that would look like in SCSS—switch between the two tabs to check out both examples:
+First, we take a look at colors. More specifically, we will learn how a color definition is passed through the semantic layers of a Design Tokens structure all the way from the most abstract level of the color palette to the tangible level of a UI mapping. Subsequently, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. Now let's see what the corresponding SCSS would look like—switch between the two tabs to check out both examples:
 
 {% tabs %}
 {% tab title="Example 1: Colors" %}
