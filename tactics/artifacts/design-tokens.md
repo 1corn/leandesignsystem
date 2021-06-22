@@ -7,7 +7,10 @@ description: >-
 
 # Design Tokens
 
-Design Codification ... Planning and Implementing an can be extremely challengeing, especially for teams just getting used to design-as-code and radical cross-functionality as proposed in [Win Friends, not Battles](../principles/win-friends-not-battles.md). Design Tokens 
+[Design Codification](../principles/design-codification.md) is a key principle of Lean Design System, as it enables cross-functional teams to work collaboratively and adopt collective ownership of a design system. However, planning and implementing a comprehensive component library is a substantial challenge even for experienced teams
+
+  
+ Planning and Implementing an can be extremely challengeing, especially for teams just getting used to design-as-code and radical cross-functionality as proposed in [Win Friends, not Battles](../principles/win-friends-not-battles.md). Design Tokens 
 
 A design system based on design tokens forces designers and developers to continually form consensus, which promotes a healthy interweaving of skills and responsibilities. Designers are encouraged to form at least a basic understanding of the code in order to define and approve tokens. Front-end developers learn about the intent behind design rules and the relationships between properties by applying design tokens to UI implementations.
 
