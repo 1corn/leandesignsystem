@@ -1,5 +1,7 @@
 ---
-description: WORK IN PROGRESS
+description: >-
+  By constantly optimizing and simplifying our designs and implementations, we
+  prune away redundancies and imperfections.
 ---
 
 # Tidy up!
