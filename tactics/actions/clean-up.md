@@ -8,6 +8,10 @@ description: >-
 
 Outline ways to cultivate a natural flow of components and structures, emergent design system
 
+## Commit to consistent improvement
+
+Collective ownership of design system components, as outlined in Win Friends, not Battles and enabled by Design Codification, 
+
 ## Where this tactic fits in
 
 {% tabs %}
