@@ -1,14 +1,14 @@
 ---
 description: >-
-  We leverage 3rd party resources to their fullest and steer clear of common
-  pitfalls.
+  We keep our interfaces clean and simple. We leverage 3rd party resources to
+  their fullest and steer clear of common pitfalls.
 ---
 
-# On the Shoulders of Giants
+# Radical Modularity
 
 [Minimum Viable Design System](../principles/minimum-viable-design-system.md) promotes the systematic exploitation of 3rd party resources with the goal to make a design system and its components usable as soon as possible. Depending on our specific requirements and objectives, such resources might include all kinds of open source projects, modern front-end frameworks, or asset libraries \(icon sets, font families, etc.\). However, relying heavily on anything that is not under our direct control exposes us to some risks that need to be considered: The dependency on a specific resource can severely compromise our flexibility. We're at the mercy of external teams when it comes to future developments. Radical changes might require us to adapt our own implementations accordingly and the abandonment of a project or the discontinuation of vital features might even force us to jump ship entirely and look for alternatives.
 
-On the Shoulders of Giants proposes guidelines around the sustainable integration of external resources—with the aim to minimize potential risks and maximize the benefits. It is based on two core ideas:
+Radical Modularity proposes guidelines around the sustainable integration of external resources—with the aim to minimize potential risks and maximize the benefits. It is based on two core ideas:
 
 * **Use as intended:** When importing an external resource into our system, we should exercise due diligence and try to understand its underlying concepts first, so that we can use it exactly as intended.
 * **Clean interfaces:** By keeping all interfaces between our own implementations and external resources as clean and simple as possible, we preserve our flexibility and avoid becoming overly dependent.
@@ -40,7 +40,7 @@ If we zoom out a little further \(fig. 2\), we can see that an architecture as o
 
 ## Workflows over tools
 
-The idea of minimizing external dependencies also extends to our tooling. We should focus on the goals we set and the workflows that get us there, rather than the underlying tools and technologies we're utilizing. By staying flexible and not becoming too dependent, we enable ourselves to always adopt the ideal tooling for a specific problem. A technology-agnostic approach like this promotes continued exploration and protects us from getting locked into a paradigm or platform that, at some point, may no longer serve our goals.
+The idea of minimizing external dependencies also extends to our tooling. We should focus on the goals we set and the workflows that get us there, rather than the underlying tools and technologies we're utilizing. By staying flexible and not becoming too dependent, we enable ourselves to always adopt the ideal tooling for a specific problem. A technology-agnostic approach promotes continued exploration and protects us from getting locked into a paradigm or platform that, at some point, may no longer serve our goals adequately.
 
 ## Where this tactic fits in
 

@@ -96,7 +96,7 @@ A structure as outlined above will not only prove more human-readable—it also 
 
 > The way we map abstract values to tangible attributes creates semantic guardrails, making a design system based on Design Tokens self-governing to a certain degree.
 
-With the help of Design Tokens, we can genuinely embrace cross-functionality and collective ownership. Furthermore, they enable many other powerful concepts, such as [A Steady Flow Truth](../infrastructure/steady-flow-of-truth.md) and a flexible front-end architecture as outlined in [On the Shoulders of Giants](../infrastructure/on-the-shoulders-of-giants.md).
+With the help of Design Tokens, we can genuinely embrace cross-functionality and collective ownership. Furthermore, they enable many other powerful concepts, such as [A Steady Flow Truth](../infrastructure/steady-flow-of-truth.md) and a flexible front-end architecture as outlined in [Radical Modularity](../infrastructure/radical-modularity.md).
 
 ## Where this tactic fits in
 
@@ -114,7 +114,7 @@ Design Tokens are a good way to get started with Design Codification and allow f
 
 Design Tokens provide ways to keep the interfaces between our technical implementations clean and simple.
 
-{% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
+{% page-ref page="../infrastructure/radical-modularity.md" %}
 
 Design Tokens represent a key concept for enabling a smooth flow of optimization through our repositories.
 

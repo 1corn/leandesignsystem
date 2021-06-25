@@ -40,7 +40,7 @@ Adopting collective ownership as outlined in Win Friends, not Battles will help 
 {% tab title="💪  This tactic supports" %}
 Regular clean-ups will help us keep the interfaces between our design system building blocks clean and flexible.
 
-{% page-ref page="../infrastructure/on-the-shoulders-of-giants.md" %}
+{% page-ref page="../infrastructure/radical-modularity.md" %}
 
 Diligently refactoring our design system artifacts will prevent our repositories from cluttering up.
 

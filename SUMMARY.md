@@ -12,7 +12,7 @@
   * [Win Friends, not Battles](tactics/principles/win-friends-not-battles.md)
 * [Infrastructure](tactics/infrastructure/README.md)
   * [Steady Flow of Truth](tactics/infrastructure/steady-flow-of-truth.md)
-  * [On the Shoulders of Giants](tactics/infrastructure/on-the-shoulders-of-giants.md)
+  * [Radical Modularity](tactics/infrastructure/radical-modularity.md)
   * [A Name and a Place](tactics/infrastructure/a-name-and-a-place.md)
 * [Behaviors](tactics/actions/README.md)
   * [Think Systems!](tactics/actions/think-systems.md)
