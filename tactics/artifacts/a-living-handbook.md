@@ -19,6 +19,10 @@ The Lean Design System documentation is freely available under a Creative Common
 
 A codified documentation as outlined here, where information is stored in a repository alongside other codified design components, is a good starting point for a fully automated documentation with live component previews down the road.
 
+## The Holy Grail of design system documentation
+
+The auto-generated documentation that emerges naturally from its underlying design language—with the design system as a translator in the middle—is deemed the holy grail of design documentation by many. However, thanks to the convergence of concepts and technologies in the area of design systems \(such as [Design Tokens](design-tokens.md) and component-based front-end libraries\), this ambitious proposition might soon become an achievable reality, even for smaller teams and organizations. Whatever approach we take, our goal should be to arrive at a documentation directly derived from code, requiring minimal maintenance efforts. Every step we take towards this goal will most definitely improve our design system workflows and communication.
+
 ## Where this tactic fits in
 
 {% tabs %}
@@ -26,6 +30,10 @@ A codified documentation as outlined here, where information is stored in a repo
 Minimum Viable Design System provides a helpful frame of reference for establishing A Living Handbook.
 
 {% page-ref page="../principles/minimum-viable-design-system.md" %}
+
+Design Codification may enable us to build a fully generative documentation.
+
+{% page-ref page="../principles/design-codification.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
