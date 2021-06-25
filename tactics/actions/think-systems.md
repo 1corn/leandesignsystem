@@ -19,7 +19,7 @@ When we design a new UI component or review and update an existing one, we remin
 * Its UX validation parameters \(how will we test it?\)
 * Its accessibility aspects
 
-Designing and building with systems in mind helps us arrive at more purposeful \(i.e., less arbitrary\) solutions. A good training exercise for developing such a mindset is conceiving an efficient and versatile [Design Tokens](../artifacts/design-tokens.md) repository.
+Designing and building with systems in mind helps us arrive at more purposeful \(i.e., less arbitrary\) solutions—and when we constantly aim for standardization, design system structures will almost automatically emerge as a byproduct. A good training exercise for developing such a mindset is conceiving an efficient and versatile [Design Tokens](../artifacts/design-tokens.md) repository.
 
 ## Where this tactic fits in
 
