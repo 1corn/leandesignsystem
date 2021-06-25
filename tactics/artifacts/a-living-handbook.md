@@ -34,6 +34,10 @@ Minimum Viable Design System provides a helpful frame of reference for establish
 Design Codification may enable us to build a fully generative documentation.
 
 {% page-ref page="../principles/design-codification.md" %}
+
+Diligently refactoring our design system artifacts, such as written documentation, will prevent our repositories from cluttering up.
+
+{% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}

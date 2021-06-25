@@ -12,7 +12,9 @@ Atomic Design.
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
+Diligently refactoring our design system artifacts will prevent our repositories from cluttering up.
 
+{% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}

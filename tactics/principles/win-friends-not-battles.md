@@ -68,6 +68,10 @@ Winning friends is the key to effective design system advocacy.
 Collective ownership catalyzes the [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) through our repositories.
 
 {% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
+
+Adopting collective ownership as outlined in Win Friends, not Battles will help us properly and quickly refactor the individual components of our design system.
+
+{% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
 {% endtabs %}
 
