@@ -30,7 +30,7 @@ After we agreed on our priorities, we can confidently draw on freely available r
 
 Examples of 3rd party resources we can fall back on include:
 
-* Full-blown **front-end frameworks** like [Bootstrap](https://getbootstrap.com/) and [Material-UI](https://material-ui.com/) can be used to kickstart a front-end component library. The tactic [On the Shoulders of Giants](../infrastructure/radical-modularity.md) describes how we can use their native theming capabilities and [Design Tokens](../artifacts/design-tokens.md) to align their look-and-feel with our own brand identity.
+* Full-blown **front-end frameworks** like [Bootstrap](https://getbootstrap.com/) and [Material-UI](https://material-ui.com/) can be used to kickstart a front-end component library. The tactic [Radical Modularity](../infrastructure/radical-modularity.md) describes how we can use their native theming capabilities and [Design Tokens](../artifacts/design-tokens.md) to align their look-and-feel with our own brand identity.
 * Versatile **illustration libraries** and frameworks such as [blush.design](https://blush.design/) allow us to create descriptive visuals for app tutorials or marketing websites. Our experience with them can also teach us how to create our own library later on.
 * A unique **icon library** can be an important building block of a distinctive brand design language. However, there are hosts of resources available online \(which are either free and open source or at least more affordable than an in-house effort\) and among them, we should almost certainly be able to find a few options suitable to our needs.
 
