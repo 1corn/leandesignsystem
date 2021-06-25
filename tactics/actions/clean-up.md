@@ -18,7 +18,7 @@ In software development, the term _refactoring_ describes the improvement of exi
 
 ## Beach cleaning!
 
-Besides regular clean-ups, we should also consider setting aside a few hours a week to implement a planned beach cleaning session. During a beach cleaning, which we only refactor and optimize existing components. We can either agree on specific areas per session or choose individually. This might be a tough sacrifice, especially for very small teams, but it will almost certainly be worth it in the long run. We should look at it as a steady deposit, constantly paying down design and technical debt, which would otherwise accumulate and clog up our machine.
+Besides regular clean-ups, we should also consider setting aside a few hours a week to implement a planned beach cleaning session. During such a beach cleaning,  we only refactor and optimize existing components. We can either agree on specific areas per session or choose individually. This might be a tough sacrifice \(time-wise\), especially for small teams— but it will almost certainly be worth it in the long run. We should see it as a steady deposit, constantly paying down design and technical debt, which would otherwise accumulate and clog up our machine.
 
 ## Where this tactic fits in
 
