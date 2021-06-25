@@ -20,9 +20,9 @@ Design tokens also provide designers and developers with powerful levers to make
 The currently preferred approach to maintaining Design Tokens is storing them in a JSON file, as it's the most widely supported format. From there, all information can be pulled directly via JavaScript or compiled to CSS. The examples below are written in SCSS to make them easier to read for designers who may be unfamiliar with JSON.
 {% endhint %}
 
-Design Tokens are organized in a tree hierarchy, where we define increasingly specific design decisions as we move towards the leaves of the tree. There's no limit to the number of hierarchical levels, we're free to explore different structures and find the perfect fit for our needs.
+Design Tokens are organized in a tree hierarchy, where we define increasingly specific design decisions as we move towards the leaves of the tree. There's no limit to the number of hierarchical levels we establish, we're free to explore different structures and find the perfect fit for our needs.
 
-To illustrate such a structure, we first take a look at colors. More specifically, we will learn how a color definition is passed through the semantic layers of a Design Tokens structure—from the most abstract level of the color palette all the way up to the tangible level of a UI mapping. We start with plain values and after that, use aliases \(mappings\) to draw on lower-level definitions. Subsequently, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. Now let's see what the corresponding SCSS would look like—switch between the two tabs to inspect both examples:
+To exemplify such a structure, we first take a look at colors. More specifically, we will learn how a color definition is passed through the semantic layers of a Design Tokens architecture—from the most abstract level of the color palette all the way up to the tangible level of a UI mapping. We start with plain values and after that, use aliases \(mappings\) to draw on lower-level definitions. Subsequently, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. Now let's see what the corresponding SCSS would look like—switch between the two tabs to inspect both examples:
 
 {% tabs %}
 {% tab title="Example 1: Colors  🎨" %}
@@ -31,7 +31,7 @@ To illustrate such a structure, we first take a look at colors. More specificall
 * 1 Subatomic definitions: Our color palette 
 ****/
 
-$cornflower: #5784FF; 
+$color-cornflower: #5784FF; 
 /* We assign a value to a new color in our color palette */
 
 
@@ -39,7 +39,7 @@ $cornflower: #5784FF;
 * 2 Getting more specific: Our color scheme 
 ****/
 
-$primary-color: $cornflower;
+$color-primary: $cornflower;
 /* On the next level, we assign the value cornflower to our primary color */
 
 
@@ -47,7 +47,7 @@ $primary-color: $cornflower;
 * 3 UI mapping: Mapping sub-atomic defintions to UI components 
 ****/
 
-$color-btn-cta: $primary-color;
+$color-button-cta: $primary-color;
 /* In the last step, our primary color is assigend to the cta button */
 ```
 {% endtab %}
