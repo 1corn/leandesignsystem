@@ -20,7 +20,9 @@ Design tokens also provide designers and developers with powerful levers to make
 The currently preferred approach to maintaining Design Tokens is storing them in a JSON file, as it's the most widely supported format. From there, all information can be pulled directly via JavaScript or compiled to CSS. The examples below are written in SCSS to make them easier to read for designers who may be unfamiliar with JSON.
 {% endhint %}
 
-First, we take a look at colors. More specifically, we will learn how a color definition is passed through the semantic layers of a Design Tokens structure—all the way from the most abstract level of the color palette to the tangible level of a UI mapping. Subsequently, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. Now let's see what the corresponding SCSS would look like—switch between the two tabs to check out both examples:
+Design Tokens are organized in a tree hierarchy, defining increasingly specific design decisions as we move towards the leaves of the tree. There's no limit to the number of hierarchical levels, we're free to explore different structures and find the perfect fit for our situation.
+
+First, we take a look at colors. More specifically, we will learn how a color definition is passed through the semantic layers of a Design Tokens structure—from the most abstract level of the color palette all the way up to the tangible level of a UI mapping. We start with plain values and after that, use aliases \(mappings\) to draw on lower-level definitions. Subsequently, we apply the same idea to border radii. Similarly, we start with an abstract, subatomic definition and specify increasingly semantic mappings. Now let's see what the corresponding SCSS would look like—switch between the two tabs to inspect both examples:
 
 {% tabs %}
 {% tab title="Example 1: Colors  🎨" %}
