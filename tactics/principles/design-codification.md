@@ -79,6 +79,10 @@ Ideas such as collective ownership and cross-functional collaboration benefit gr
 Design Codification is a key concepts for enabling a Steady Flow of Truth through our repositories.
 
 {% page-ref page="../infrastructure/steady-flow-of-truth.md" %}
+
+Design Codification may enable us to build a fully generative documentation.
+
+{% page-ref page="../artifacts/a-living-handbook.md" %}
 {% endtab %}
 {% endtabs %}
 
