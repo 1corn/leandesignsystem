@@ -45,7 +45,7 @@ By aligning our campaign accordingly, our design system should be able to gain m
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-A Living Handbook and A Name and a Place both outline ways to make our design system more tangible early on and directly support us with our canvassing efforts.
+A Living Handbook and A Name and a Place both outline ways to make our design system more tangible early on and directly support us in our canvassing efforts.
 
 {% page-ref page="../artifacts/a-living-handbook.md" %}
 
@@ -53,6 +53,8 @@ A Living Handbook and A Name and a Place both outline ways to make our design sy
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+Honest and transparent canvassing will help us find new allies.
+
 {% page-ref page="../principles/win-friends-not-battles.md" %}
 {% endtab %}
 {% endtabs %}

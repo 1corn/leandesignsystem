@@ -58,6 +58,10 @@ Especially the ideas of collective ownership and cross-functional collaboration 
 Being diligent about refactoring reduces the need for overly strict governance processes. 
 
 {% page-ref page="../actions/clean-up.md" %}
+
+Honest and transparent canvassing will help us find new allies.
+
+{% page-ref page="../actions/canvas.md" %}
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
