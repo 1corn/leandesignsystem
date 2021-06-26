@@ -14,7 +14,7 @@ Canvas! describes a pragmatic approach to intra-organizational design system adv
 
 ## Architecting a guerilla campaign
 
-Once equipped with some promotional material, we can launch our first campaign forays to test the waters and spark wider discussions. Whatever we do, we should always keep in mind that we don't just go out to _promote_ and _educate_, but also to _listen_ and _learn_. As outlined in [Win Friends, not Battles](../principles/win-friends-not-battles.md), understanding each other's struggles and considering them as opportunities for improvement lies at the very heart of Lean Design System methodology. It will make it much easier to and also improve the design of our system.
+Once equipped with some promotional material, we can launch our first campaign forays to test the waters and spark wider discussions. Whatever we do, we should always keep in mind that we don't just go out to _promote_ and _educate_, but also to _listen_ and _learn_. As outlined in [Win Friends, not Battles](../principles/win-friends-not-battles.md), understanding each other's struggles and considering them as opportunities for improvement lies at the very heart of Lean Design System methodology. Being responsive to input and feedback will make it much easier to convince fellow coworkers—and ultimately improve the design of our system.
 
 Whether we already have a working design system in place and aim to catalyze its adoption and development, or whether we just entered the ideation phase and want to recruit allies, any of the following formats should be considered for canvassing purposes.
 
