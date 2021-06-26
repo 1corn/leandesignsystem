@@ -32,10 +32,10 @@ As soon as we have established a library of reusable components \(e.g., in the f
 
 ## The goals of design system canvassing
 
-Finally, let's take a look at what we're trying to achieve. To summarize our goals:
+Finally, let's take a look at what we're trying to achieve. To summarize our goals, we aim for:
 
 * **Visibility:** We want to increase the general visibility of our design system efforts.
-* **Education:** We want to make the structures and components of our design system more tangible and better understandable. We also want to educate ourselves and gather input.
+* **Education and transparency:** We want to make the structures and components of our design system more tangible and better understandable. We also want to educate ourselves and gather input.
 * **Curiosity and desire:** We want to make it desirable to become active and make use of our design system. We use early victories as examples to illustrate the benefits of our proposition.
 * **Sympathy and support:** We want to make our design system _likeable_. Interacting with the builders of the design system should be uncomplicated. There should be no obstacles between interested parties and our design system resources. 
 
