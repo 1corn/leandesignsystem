@@ -32,18 +32,14 @@ As soon as we have established a library of reusable components \(e.g., in the f
 
 ## The goals of design system canvassing
 
-Now let's take a look at what we're trying to achieve. To summarize our goals:
+Finally, let's take a look at what we're trying to achieve. To summarize our goals:
 
-* Visibility: Increase the visibility of our design system efforts.
-* Education:
-* Curiosity and desire:
-* Sympathy and support: 
-
-Goals: Make the design system visible. Make it tangible/understandable. Make it desirable - illustrate benefits. Make it likeable.
+* **Visibility:** We want to increase the general visibility of our design system efforts.
+* **Education:** We want to make the structures and components of our design system more tangible and better understandable. We also want to educate ourselves and gather input.
+* **Curiosity and desire:** We want to make it desirable to become active and make use of our design system. We use early victories as examples to illustrate the benefits of our proposition.
+* **Sympathy and support:** We want to make our design system _likeable_. Interacting with the builders of the design system should be uncomplicated. There should be no obstacles between interested parties and our design system resources. 
 
 Clearly explains the Value Proposition, Principles and that makes it easy for anyone to present the Design Strategy to colleagues, partners, customers and investors.
-
-Give our system a name. \(according to Spark almost a third of all design systems have to get by without a name\)
 
 alle Ressourcen und documentation frei zugänglich machen, to enable everyoen else to become a potential canvasser.
 
