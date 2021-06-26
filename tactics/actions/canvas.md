@@ -28,25 +28,25 @@ One very straightforward way to start conversations is establishing a dedicated,
 
 ### Develop and host training webinars
 
-As soon as we have established a library of reusable components \(e.g., in the form of a [UI Kit](../artifacts/ui-kits.md) or a [Design Tokens](../artifacts/design-tokens.md) repository\) or developed cross-functional workflows worth sharing with the larger team or organization, we should start considering webinars as an addition to our campaign. Planning a webinar is a rather time-consuming affair when compared to other canvassing formats—however, once prepared, a webinar will prove a powerful tool to address larger audiences. We can reach remote coworkers and record our sessions to make them available in a shared location. Naturally, the invitation can be extended to external freelancers and partner organizations. Any kind of design system webinar should illustrate its benefits using tangible examples. It should also provide the links and resources needed by participants to become active themselves.
+As soon as we have established a library of reusable components \(e.g., in the form of a [UI Kit](../artifacts/ui-kits.md) or a [Design Tokens](../artifacts/design-tokens.md) repository\) or developed cross-functional workflows worth sharing with the larger team or organization, we should start considering webinars as an addition to our campaign. Planning a webinar is a rather time-consuming affair when compared to other canvassing formats—however, once prepared, a webinar will prove a powerful tool to address larger audiences. We can reach remote coworkers and record our sessions to make them available in a shared location. Naturally, the invitation can be extended to external freelancers and partner organizations. Any kind of design system webinar should illustrate the system's benefits using tangible examples. It should also provide the links and resources needed by participants to become active themselves.
 
 ## The goals of design system canvassing
 
-Finally, let's take a look at what we're trying to achieve. To summarize our goals, we aim for:
+Let's take a look at what we're trying to achieve. To summarize our goals, we aim for:
 
 * **Visibility:** We want to increase the general visibility of our design system efforts.
 * **Education and transparency:** We want to make the structures and components of our design system more tangible and better understandable. We also want to educate ourselves and gather input.
 * **Curiosity and desire:** We want to make it desirable to become active and make use of our design system. We illustrate its value proposition using early victories as examples.
 * **Sympathy and support:** We want to make our design system _likeable_. Interacting with the builders of the design system should be uncomplicated. There should be no obstacles between interested parties and our design system resources. 
 
-Clearly explains the Value Proposition, Principles and that makes it easy for anyone to present the Design Strategy to colleagues, partners, customers and investors.
-
-alle Ressourcen und documentation frei zugänglich machen, to enable everyoen else to become a potential canvasser.
+By aligning our campaign accordingly, our design system should be able to gain more and more traction. To build up momentum, we have to make sure all resources and documentation are easily accessible to everyone, enabling new allies to support us in our mission.
 
 ## Where this tactic fits in
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
+A Living Handbook and A Name and a Place both outline ways to make our design system more tangible early on and directly support us with our canvassing efforts.
+
 {% page-ref page="../artifacts/a-living-handbook.md" %}
 
 {% page-ref page="../infrastructure/a-name-and-a-place.md" %}
