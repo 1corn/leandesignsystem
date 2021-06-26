@@ -63,7 +63,7 @@ Being diligent about refactoring reduces the need for overly strict governance p
 {% tab title="💪  This tactic supports" %}
 Winning friends is the key to effective design system advocacy.
 
-{% page-ref page="../actions/canvas.md" %}
+{% page-ref page="../actions/canvas/" %}
 
 Collective ownership catalyzes the [Steady Flow of Truth](../infrastructure/steady-flow-of-truth.md) through our repositories.
 
