@@ -28,13 +28,16 @@ One very straightforward way to start conversations is establishing a dedicated,
 
 ### Develop and host training webinars
 
-As soon as we have established a library of reusable components \(e.g., in the shape of a [UI Kit](../artifacts/ui-kits.md) or a [Design Tokens](../artifacts/design-tokens.md) repository\) or developed cross-functional workflows worth sharing with the larger team or organization, we should start considering webinars as an addition to our campaign. Planning a webinar is a rather time-consuming affair when compared to other canvassing formats, but once prepared, they will prove a powerful tool to reach everyone , can be recorded and made available in a shared location.
+As soon as we have established a library of reusable components \(e.g., in the form of a [UI Kit](../artifacts/ui-kits.md) or a [Design Tokens](../artifacts/design-tokens.md) repository\) or developed cross-functional workflows worth sharing with the larger team or organization, we should start considering webinars as an addition to our campaign. Planning a webinar is a rather time-consuming affair when compared to other canvassing formats—however, once prepared, a webinar will prove a powerful tool to address larger audiences. We can reach remote coworkers and record our sessions to make them available in a shared location. Naturally, the invitation can be extended to external freelancers and partner organizations. Any kind of design system webinar should illustrate its benefits using tangible examples. It should also provide the links and resources needed by participants to become active themselves.
 
+## The goals of design system canvassing
 
+Now let's take a look at what we're trying to achieve. To summarize our goals:
 
-
-
-
+* Visibility: Increase the visibility of our design system efforts.
+* Education:
+* Curiosity and desire:
+* Sympathy and support: 
 
 Goals: Make the design system visible. Make it tangible/understandable. Make it desirable - illustrate benefits. Make it likeable.
 
