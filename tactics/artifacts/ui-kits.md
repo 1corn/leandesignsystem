@@ -8,6 +8,10 @@ The consolidation of components in one central place can be one of the first ste
 
 Atomic Design.
 
+Our UI Kit lives in a modern UI design tool such as Figma, Adobe XD or Sketch. While some of these tools provide ways to generate code automatically, the corresponding workflows can make us too dependent on a specific tool or framework. Also, the code quality may not be up to scratch, as there are semantic gaps that still prove hard to bridge from this side of the handoff process. Instead, Lean Design System promotes the adoption of Design Tokens as a much more effective and fluent approach to the integration of design and development efforts. For that reason \(and as we can see in fig. 1\), the UI Kit should always be based on the latest definitions in our code repository. In other words, we quite literally trace components exactly as they are rendered on devices and make them available as design components within our UI Kit. What may seem a bit cumbersome at first will ensure that the UI Kit never takes the lead over the code repository. A component that can't be easily built using our technology should not be part of our UI Kit. This way, prototypes we design will always be close to the real thing and all testing we perform will be valid. We should always only have one central and shared UI Kit file \(or file structure in the case of a very large or complex component library\).
+
+
+
 ## Where this tactic fits in
 
 {% tabs %}
