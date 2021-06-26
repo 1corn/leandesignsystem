@@ -40,7 +40,7 @@ Design Tokens, UI Kit, and A Living Handbook all describe forms of design system
 {% tab title="💪  This tactic supports" %}
 A working title and dedicated spaces will make it easier to communicate and promote our design system from its inception.
 
-{% page-ref page="../actions/canvas/" %}
+{% page-ref page="../actions/canvas.md" %}
 
 A Name and a Place offers a good starting point for a continuous expansion as proposed in Steady Flow of Truth. 
 
