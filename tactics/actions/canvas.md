@@ -10,7 +10,7 @@ Depending on where in the process of cultivating a design system we currently ar
 
 > What our early successes look like entirely depends on where and how we start to cultivate a design system—the key takeaway is that we document them in a pitchable way and build up a repository of _propaganda material_ we always have at hand.
 
-Canvas! describes a very pragmatic approach to design system advocacy, but some underlying structures will help us reliably promote the benefits of the libraries we're building. [A Living Handbook](../artifacts/a-living-handbook.md) encourages us to articulate a design system mission, outlining the goals and values guiding our endeavor. This mission statement should be revisited \(and, if need be, updated\) regularly. It also won't hurt to start compiling a shared slide deck containing our mission statement and a few vivid success stories, so that we're ready to pitch our vision at a moment's notice. These can include projects in which we used components from our library to speed up product development, engineering handoffs we eliminated, and misconceptions we resolved through cross-functional collaboration. What our early successes look like entirely depends on where and how we start to cultivate a design system—the key takeaway is that we document them in a pitchable way and build up a repository of _propaganda material_ we always have at hand.
+Canvas! describes a pragmatic approach to intra-organizational design system advocacy, but some underlying structures will help us to reliably promote our proposition. [A Living Handbook](../artifacts/a-living-handbook.md) encourages us to articulate a design system mission, outlining the goals and values guiding our endeavor. This mission statement should be revisited \(and, if need be, updated\) regularly. It's also advisable to start compiling a shared slide deck containing our mission statement and a few vivid success stories right away, so that we're ready to pitch our vision at a moment's notice. These can include projects in which we used components from our library to speed up product development, engineering handoffs we eliminated, and misconceptions we resolved through cross-functional mediation. What our early successes look like entirely depends on where and how we start to cultivate a design system—the key takeaway is that we document them in a pitchable way and build up a repository of _propaganda material_ we always have at hand.
 
 ## Architecting guerilla campaign
 
@@ -28,7 +28,7 @@ Guerilla campaigning
 
 Brown bag sessions, lunch & learn
 
-Goals: Make the design system visible. Make it tangible/understandable. Make it desirable. Make it likeable.
+Goals: Make the design system visible. Make it tangible/understandable. Make it desirable - benefits. Make it likeable.
 
 Build up a repo of success stories. Host webinars and . Illustrate the benefits
 
