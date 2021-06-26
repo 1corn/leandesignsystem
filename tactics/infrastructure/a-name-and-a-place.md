@@ -44,7 +44,7 @@ Design Tokens, UI Kit, and A Living Handbook all describe forms of design system
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
-A working title and dedicated spaces will make it easier to communicate and promote our design system from its inception.
+A working title and dedicated spaces will increase our design system's visibility and make it easier to promote it early on.
 
 {% page-ref page="../actions/canvas.md" %}
 

@@ -44,6 +44,10 @@ Diligently refactoring our design system artifacts, such as written documentatio
 A Living Handbook can serve as a starting point for establishing our design system.
 
 {% page-ref page="../infrastructure/a-name-and-a-place.md" %}
+
+A Living Handbook outlines ways to make our design system more tangible early on and directly supports us in our canvassing efforts.
+
+{% page-ref page="../actions/canvas.md" %}
 {% endtab %}
 {% endtabs %}
 
