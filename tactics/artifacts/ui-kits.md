@@ -1,8 +1,14 @@
 ---
-description: WORK IN PROGRESS
+description: >-
+  We consolidate our component designs in one central place to enable effortless
+  exploration and prototyping.
 ---
 
 # UI Kit
+
+When we analyze the visual anatomy of today's most popular apps, we can observe a very high degree of consistency, making them feel polished, easy to navigate, and generally pleasant to interact with. Besides a consistent use of typography and color, we might find that the same paddings are applied to cards, forms, and menus, that the proportions of modules are affected similarly by changing the viewport, and that animations all follow the same rules.
+
+Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD, or Sketch represents the first step for teams and organizations towards building a design system. It helps us to 
 
 The consolidation of components in one central place can be one of the first steps we take towards developing a design system. 
 

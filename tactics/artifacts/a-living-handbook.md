@@ -1,5 +1,5 @@
 ---
-description: Develop and document a shared design system mission.
+description: We articulate and document a shared design system mission.
 ---
 
 # A Living Handbook
