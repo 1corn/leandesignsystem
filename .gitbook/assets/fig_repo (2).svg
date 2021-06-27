@@ -1,0 +1,181 @@
+<svg id="LdsFigRepo" data-name="lds-fig-repo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1220px" height="860px" viewBox="0 0 610 430">
+    <defs>
+        <style>
+        .cls-1,
+        .cls-5,
+        .cls-8 {
+            fill: #fff;
+        }
+
+        .cls-2 {
+            font-size: 12px;
+            font-family: Arial-BoldMT, Arial;
+            font-weight: 700;
+        }
+
+        .cls-11,
+        .cls-2,
+        .cls-9 {
+            fill: #231f20;
+        }
+
+        .cls-12,
+        .cls-13,
+        .cls-14,
+        .cls-15,
+        .cls-16,
+        .cls-21,
+        .cls-3 {
+            fill: none;
+        }
+
+        .cls-12,
+        .cls-13,
+        .cls-14,
+        .cls-15,
+        .cls-16,
+        .cls-3,
+        .cls-4,
+        .cls-8 {
+            stroke: #000;
+            stroke-width: 1.2px;
+        }
+
+        .cls-12,
+        .cls-13,
+        .cls-14,
+        .cls-15,
+        .cls-16,
+        .cls-21,
+        .cls-3,
+        .cls-4,
+        .cls-8 {
+            stroke-miterlimit: 10;
+        }
+
+        .cls-11,
+        .cls-5,
+        .cls-9 {
+            font-size: 10px;
+            font-family: ArialMT, Arial;
+        }
+
+        .cls-6,
+        .cls-9 {
+            letter-spacing: -0.11em;
+        }
+
+        .cls-7 {
+            letter-spacing: -0.06em;
+        }
+
+        .cls-10 {
+            letter-spacing: 0em;
+        }
+
+        .cls-12,
+        .cls-13,
+        .cls-14,
+        .cls-15,
+        .cls-16 {
+            stroke-linecap: square;
+        }
+
+        .cls-13 {
+            stroke-dasharray: 4.05 4.05;
+        }
+
+        .cls-14 {
+            stroke-dasharray: 4.3 4.3;
+        }
+
+        .cls-15 {
+            stroke-dasharray: 4.02 4.02;
+        }
+
+        .cls-16 {
+            stroke-dasharray: 3.98 3.98;
+        }
+
+        .cls-17 {
+            letter-spacing: -0.07em;
+        }
+
+        .cls-18 {
+            letter-spacing: -0.02em;
+        }
+
+        .cls-19 {
+            fill: #6c7280;
+        }
+
+        .cls-20 {
+            fill: #5bebc5;
+        }
+
+        .cls-21 {
+            stroke: #6c7280;
+            stroke-width: 2px;
+        }
+        </style>
+    </defs>
+    <rect class="cls-1" width="610" height="430" />
+    <image width="171" height="170" transform="translate(183.56 52.76) scale(0.24)" xlink:href="data:image/png;base64,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" /><text class="cls-2" transform="translate(332.35 17.12)">Presented in a GUI <tspan x="15.69" y="17">(e.g., GitBook)</tspan></text>
+    <rect class="cls-3" x="85.45" y="163.64" width="439.1" height="255.46" />
+    <g id="Solid_Arrow" data-name="Solid Arrow">
+        <line class="cls-3" x1="230.93" y1="73.13" x2="329.93" y2="73.13" />
+        <path d="M321.72,78.89a.61.61,0,0,1,.19-.83l7.74-4.93-7.74-4.94a.6.6,0,0,1-.19-.82.61.61,0,0,1,.83-.19l8.54,5.44a.6.6,0,0,1,0,1l-8.54,5.44a.62.62,0,0,1-.32.09A.6.6,0,0,1,321.72,78.89Z" />
+    </g>
+    <g id="Solid_Arrow-2" data-name="Solid Arrow">
+        <line class="cls-3" x1="204.14" y1="163.64" x2="204.14" y2="100.29" />
+        <path d="M209.9,108.49a.6.6,0,0,1-.83-.18l-4.93-7.74-4.93,7.74a.6.6,0,1,1-1-.65l5.43-8.53a.59.59,0,0,1,.51-.28.6.6,0,0,1,.51.28l5.43,8.53a.58.58,0,0,1,.1.33A.59.59,0,0,1,209.9,108.49Z" />
+    </g>
+    <rect class="cls-4" x="249.63" y="254.82" width="114.74" height="35.2" /><text class="cls-5" transform="translate(290.05 274.75)">
+        <tspan class="cls-6">T</tspan>
+        <tspan x="5" y="0">actic</tspan>
+        <tspan class="cls-7" x="25.56" y="0" xml:space="preserve"> A</tspan>
+    </text>
+    <rect class="cls-8" x="390.38" y="315.61" width="114.74" height="35.2" /><text class="cls-9" transform="translate(429.97 335.55)">T<tspan class="cls-10" x="5" y="0">actic D</tspan></text>
+    <rect class="cls-8" x="390.38" y="361.81" width="114.74" height="35.2" /><text class="cls-11" transform="translate(430.25 381.75)">
+        <tspan class="cls-6">T</tspan>
+        <tspan x="5" y="0">actic E</tspan>
+    </text><text class="cls-11" transform="translate(166.46 265.53)">Both benefit</text><text class="cls-11" transform="translate(306.61 393.45)">Benefits both</text>
+    <line class="cls-12" x1="307.61" y1="289.81" x2="307.61" y2="291.91" />
+    <line class="cls-13" x1="307.61" y1="295.96" x2="307.61" y2="374.9" />
+    <line class="cls-12" x1="307.61" y1="376.93" x2="307.61" y2="379.03" />
+    <line class="cls-12" x1="311.65" y1="334.23" x2="313.75" y2="334.23" />
+    <line class="cls-14" x1="318.05" y1="334.23" x2="384.69" y2="334.23" />
+    <line class="cls-12" x1="386.84" y1="334.23" x2="388.94" y2="334.23" />
+    <path d="M380.74,340a.6.6,0,0,1,.18-.83l7.75-4.93-7.75-4.93a.6.6,0,0,1,.65-1l8.54,5.44a.61.61,0,0,1,0,1l-8.54,5.44a.62.62,0,0,1-.32.09A.6.6,0,0,1,380.74,340Z" />
+    <rect class="cls-8" x="110.09" y="360.48" width="114.74" height="35.2" /><text class="cls-9" transform="translate(149.67 380.41)">T<tspan class="cls-10" x="5" y="0">actic C</tspan></text>
+    <rect class="cls-8" x="110.09" y="314.28" width="114.74" height="35.2" /><text class="cls-11" transform="translate(149.95 334.21)">
+        <tspan class="cls-6">T</tspan>
+        <tspan x="5" y="0">actic B</tspan>
+    </text>
+    <line class="cls-12" x1="167.45" y1="314.28" x2="167.45" y2="312.18" />
+    <line class="cls-15" x1="167.45" y1="308.16" x2="167.45" y2="278.03" />
+    <polyline class="cls-12" points="167.46 276.02 167.46 273.92 169.55 273.92" />
+    <line class="cls-16" x1="173.53" y1="273.92" x2="243.1" y2="273.92" />
+    <line class="cls-12" x1="245.09" y1="273.92" x2="247.19" y2="273.92" />
+    <path d="M239,279.68a.6.6,0,0,1,.18-.83l7.74-4.93L239.17,269a.6.6,0,0,1,.64-1l8.54,5.44a.6.6,0,0,1,0,1l-8.54,5.44a.59.59,0,0,1-.32.09A.58.58,0,0,1,239,279.68Z" />
+    <line class="cls-12" x1="311.65" y1="379.41" x2="313.75" y2="379.41" />
+    <line class="cls-14" x1="318.05" y1="379.41" x2="384.69" y2="379.41" />
+    <line class="cls-12" x1="386.84" y1="379.41" x2="388.94" y2="379.41" />
+    <path d="M380.74,385.17a.59.59,0,0,1,.18-.82l7.75-4.94-7.75-4.93a.59.59,0,0,1-.18-.82.61.61,0,0,1,.83-.19l8.54,5.44a.61.61,0,0,1,0,1l-8.54,5.44a.62.62,0,0,1-.32.09A.6.6,0,0,1,380.74,385.17Z" /><text class="cls-2" transform="translate(243.21 201.67)">
+        <tspan class="cls-7">V</tspan>
+        <tspan x="7.34" y="0">alues, Principles, and</tspan>
+        <tspan x="-36.76" y="17">Linked </tspan>
+        <tspan class="cls-17" x="5.24" y="17">T</tspan>
+        <tspan x="11.68" y="17">actics </tspan>
+        <tspan class="cls-18" x="49.04" y="17">W</tspan>
+        <tspan x="60.15" y="17">ritten in Markdown</tspan>
+    </text><text class="cls-2" transform="translate(173.13 17.12)">Stored in a<tspan x="-17" y="17">Code Repository</tspan></text>
+    <circle class="cls-19" cx="366.37" cy="59.52" r="2.91" />
+    <circle class="cls-19" cx="373.69" cy="59.52" r="2.91" />
+    <circle class="cls-19" cx="381.02" cy="59.52" r="2.91" />
+    <circle class="cls-1" cx="366.37" cy="59.52" r="1.22" />
+    <rect class="cls-20" x="369.43" y="70.33" width="35.89" height="4" rx="2" />
+    <rect class="cls-20" x="369.43" y="76.57" width="35.89" height="4" rx="2" />
+    <rect class="cls-20" x="378.59" y="82.82" width="17.56" height="4" rx="2" />
+    <rect class="cls-21" x="359.01" y="52.11" width="56.72" height="42.03" rx="7.39" />
+</svg>

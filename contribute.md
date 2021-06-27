@@ -1,19 +1,16 @@
 ---
-description: WORK IN PROGRESS
+description: How to contribute to the project or create a standalone fork
 ---
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
 # Get Involved
+
+[![](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+## Get Involved
 
 The Lean Design System documentation is freely available under a Creative Commons license and can serve as a foundation for a lightweight design system documentation. It is written in markdown language and stored in a [Git repository](https://github.com/1corn/leandesignsystem/tree/main), which makes it easy to fork, customize and extend. Individual parts can be adopted without change, edited as needed, or deleted altogether. The diagram below \(fig. 1\) illustrates the structure of the documentation:
 
