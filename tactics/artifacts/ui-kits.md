@@ -49,6 +49,10 @@ Diligently refactoring our design system artifacts will prevent our repositories
 Building a UI Kit will train our systems thinking capabilities.
 
 {% page-ref page="../actions/think-systems.md" %}
+
+UX Vignettes make for great _minimum viable conversations._ We can use them to validate our assumptions quickly and avoid spending too much time on dead end paths.
+
+{% page-ref page="../principles/minimum-viable-design-system.md" %}
 {% endtab %}
 {% endtabs %}
 
