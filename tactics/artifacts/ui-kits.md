@@ -12,7 +12,7 @@ When we analyze the visual anatomy of today's most popular apps, we can observe 
 
 The UI Kit is a powerful tool and in the context of Lean Design System methodology, it plays a vital role for communication, exploration, and prototyping. If we decide to adopt Design Codification and 
 
-![](../../.gitbook/assets/fig_steady_flow.svg)
+![Fig. 1: Steady Flow of Truth](../../.gitbook/assets/fig_steady_flow.svg)
 
 Once and only once
 
