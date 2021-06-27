@@ -26,7 +26,7 @@ Next, we quickly go through the stations relevant to the UI Kit. For a complete 
 
 ### UI Kit
 
-Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD, or Sketch represents the first step for teams and organizations towards building a design system. The consolidation of components in one central place makes it much easier to knock out consistent prototypes and represents a safe haven to return to from our visual explorations. In the context of Lean Design System, prototypes are referred to as UX Vignettes and the results of our explorations we call Tweaks.
+Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD, or Sketch represents the first step for teams and organizations towards building a design system. The consolidation of components in one central place makes it much easier to knock out consistent prototypes and represents a safe haven to return to from our visual explorations. In the context of Lean Design System, prototypes are referred to as UX Vignettes, and the results of our explorations we call Tweaks.
 
 ### UX Vignettes
 
