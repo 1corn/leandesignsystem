@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Get Started](README.md)
-* [Core Values](core-values.md)
 * [Get Involved](contribute.md)
 
 ## Tactics

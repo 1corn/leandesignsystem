@@ -1,5 +1,5 @@
 ---
-description: How to contribute to the project or create a standalone fork
+description: Learn how to contribute to the project or create a standalone fork.
 ---
 
 # Get Involved
