@@ -30,11 +30,11 @@ Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD,
 
 ### UX Vignettes
 
-UX vignettes are focused prototypes, covering a defined user scenario or workflow end-to-end. We build UX vignettes using the components provided by our UI Kit. Ideally, UX vignettes should be clickable and run on all targeted platforms. When determining our design tooling, prototyping capabilities should be a main criteria, as the process of building, testing and updating them should be quick and easy. If we want to make improvements or add new elements to our UI Kit's component library \(because, for example, a project presents us with a new and unique challenge\), we document them in separate tweaks files. These tweaks files are shared design files in our design system stream.
+UX Vignettes are focused prototypes, covering a defined user scenario or workflow end-to-end. We build UX Vignettes using the components provided by our UI Kit. Ideally, UX Vignettes should be clickable and run on all targeted platforms. When determining our design tooling, prototyping capabilities should be a main criteria, as the process of building, testing and updating them should be quick and easy. If we want to make improvements or add new elements to our UI Kit's component library \(because, for example, a project presents us with a new and unique challenge\), we document them in separate tweaks files. These Tweaks files are shared design files in our design system stream.
 
 ### Tweaks
 
-We document all changes and additions to our UI Kit in separate tweaks files, which are shared design files of the same type as the UI Kit itself. Tweaks can be the result of project work or regular optimization efforts. Whatever their origin, if we agree on their validity, we feed them into the code repository through the process of codification. Once codified, we can then make them available in our UI Kit by tracing them.
+We document all changes and additions to our UI Kit in separate Tweaks files, which are shared design files of the same type as the UI Kit itself. Tweaks can be the result of project work or regular optimization efforts. Whatever their origin, if we agree on their validity, we feed them into the code repository through the process of codification. Once codified, we can then make them available in our UI Kit by _tracing_ them.
 
 ## Where this tactic fits in
 
