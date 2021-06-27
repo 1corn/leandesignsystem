@@ -26,19 +26,15 @@ Next, we quickly go through the stations relevant to the UI Kit. For a complete 
 
 ### UI Kit
 
-Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD, or Sketch represents the first step for teams and organizations towards building a design system. The consolidation of components in one central place makes it much easier to knock out consistent prototypes and represents a safe haven to return to from our visual explorations.
+Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD, or Sketch represents the first step for teams and organizations towards building a design system. The consolidation of components in one central place makes it much easier to knock out consistent prototypes and represents a safe haven to return to from our visual explorations. In the context of Lean Design System, prototypes are referred to as UX Vignettes and the results of our explorations we call Tweaks.
 
 ### UX Vignettes
 
+UX vignettes are focused prototypes, covering a defined user scenario or workflow end-to-end. We build UX vignettes using the components provided by our UI Kit. Ideally, UX vignettes should be clickable and run on all targeted platforms. When determining our design tooling, prototyping capabilities should be a main criteria, as the process of building, testing and updating them should be quick and easy. If we want to make improvements or add new elements to our UI Kit's component library \(because, for example, a project presents us with a new and unique challenge\), we document them in separate tweaks files. These tweaks files are shared design files in our design system stream.
+
 ### Tweaks
 
-
-
-Atomic Design.
-
-Our UI Kit lives in a modern UI design tool such as Figma, Adobe XD or Sketch. While some of these tools provide ways to generate code automatically, the corresponding workflows can make us too dependent on a specific tool or framework. Also, the code quality may not be up to scratch, as there are semantic gaps that still prove hard to bridge from this side of the handoff process. Instead, Lean Design System promotes the adoption of Design Tokens as a much more effective and fluent approach to the integration of design and development efforts. For that reason \(and as we can see in fig. 1\), the UI Kit should always be based on the latest definitions in our code repository. In other words, we quite literally trace components exactly as they are rendered on devices and make them available as design components within our UI Kit. What may seem a bit cumbersome at first will ensure that the UI Kit never takes the lead over the code repository. A component that can't be easily built using our technology should not be part of our UI Kit. This way, prototypes we design will always be close to the real thing and all testing we perform will be valid. We should always only have one central and shared UI Kit file \(or file structure in the case of a very large or complex component library\).
-
-
+We document all changes and additions to our UI Kit in separate tweaks files, which are shared design files of the same type as the UI Kit itself. Tweaks can be the result of project work or regular optimization efforts. Whatever their origin, if we agree on their validity, we feed them into the code repository through the process of codification. Once codified, we can then make them available in our UI Kit by tracing them.
 
 ## Where this tactic fits in
 
