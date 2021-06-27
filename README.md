@@ -1,5 +1,7 @@
 ---
-description: WORK IN PROGRESS
+description: >-
+  A quick introduction to the origins of Lean Design System methodology, its
+  values and structures, and how to read and implement it.
 ---
 
 # Get Started
