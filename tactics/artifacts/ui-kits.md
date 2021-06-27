@@ -38,7 +38,9 @@ Diligently refactoring our design system artifacts will prevent our repositories
 {% endtab %}
 
 {% tab title="💪  This tactic supports" %}
+Building a UI Kit will train our systems thinking capabilities.
 
+{% page-ref page="../actions/think-systems.md" %}
 {% endtab %}
 {% endtabs %}
 
