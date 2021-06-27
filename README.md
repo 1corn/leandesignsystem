@@ -1,7 +1,7 @@
 ---
 description: >-
   A quick introduction to the origins of Lean Design System methodology, its
-  values and structures, and how to read and implement it.
+  values and structures, and how to implement it.
 ---
 
 # Get Started
