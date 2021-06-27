@@ -6,7 +6,19 @@ description: >-
 
 # UI Kit
 
-When we analyze the visual anatomy of today's most popular apps, we can observe a very high degree of consistency, making them feel polished, easy to navigate, and generally pleasant to interact with. Besides the consistent use of typography and color, we might find that the same paddings are applied to cards, forms, and menus, that the proportions of modules are affected similarly by viewport changes, and that animations all follow the same set of rules. To ensure the correct application of patterns and attributes defined by an underlying design language, digital product teams use central component libraries for all design work. Typically, these libraries contain modular building blocks, plus all relevant guidelines specifying nesting and recombination options.
+When we analyze the visual anatomy of today's most popular apps, we can observe a very high degree of consistency, making them feel polished, easy to navigate, and generally pleasant to interact with. Besides the consistent use of typography and color, we might find that the same paddings are applied to cards, forms, and menus, that the proportions of modules are affected similarly by viewport changes, and that animations all follow the same set of rules. To ensure the correct application of patterns and attributes defined by an underlying design language, digital product teams use central component libraries for their design work. Typically, these libraries contain modular building blocks, plus all relevant guidelines specifying nesting and recombination options. Increasingly, these libraries are referred to as UI Kits and are maintained in modern design tools such as Figma, Adobe XD, or Sketch.
+
+## The UI Kit in the context of Lean Design System
+
+The UI Kit is a powerful tool and in the context of Lean Design System methodology, it plays a vital role for communication, exploration, and prototyping. If we decide to adopt Design Codification and 
+
+![](../../.gitbook/assets/fig_steady_flow.svg)
+
+Once and only once
+
+Atomic Design, required reading
+
+Kept clean, free of redundancies and .. See tidy up
 
 Very often, a UI Kit maintained in a modern design tool such as Figma, Adobe XD, or Sketch represents the first step for teams and organizations towards building a design system. The consolidation of components in one central place 
 
@@ -20,7 +32,7 @@ Our UI Kit lives in a modern UI design tool such as Figma, Adobe XD or Sketch. W
 
 {% tabs %}
 {% tab title="🙏  This tactic benefits from" %}
-Diligently refactoring our design system artifacts will prevent our repositories from cluttering up.
+Diligently refactoring our design system artifacts will prevent our repositories from cluttering.
 
 {% page-ref page="../actions/clean-up.md" %}
 {% endtab %}
