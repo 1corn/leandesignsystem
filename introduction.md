@@ -22,16 +22,24 @@ Lean Design System provides a modular set of 12 tactics \(organized in 4 layers\
 
 This brings us to the 4 layers categorizing the 12 tactics of Lean Design System:
 
-* Principles: Tactics on the Principles layer describe the methodology’s guiding principles and foundational concepts.
-* Infrastructure: Tactics on the Infrastructure layer describe what kind of organizational and technical structures can be derived from the Principles layer.
-* Behaviors: Tactics on the Behaviors level describe how action can be taken on the individual level at any time. It also describes behaviors that should be actively fostered to ensure steady improvement.
-* Artifacts: Lastly, tactics on the Artifacts level describe the actual artifacts organized in the design system’s libraries and repositories.
+1. Principles: Tactics on the Principles layer describe the methodology’s guiding principles and foundational concepts.
+2. Infrastructure: Tactics on the Infrastructure layer describe what kind of organizational and technical structures can be derived from the Principles layer.
+3. Behaviors: Tactics on the Behaviors level describe how action can be taken on the individual level at any time. It also describes behaviors that should be actively fostered to ensure steady improvement.
+4. Artifacts: Lastly, tactics on the Artifacts level describe the actual artifacts organized in the design system’s libraries and repositories.
 
 ### Structure of a tactic
 
-All tactics follow the exact same structure: They start with an introduction outlining a challenge, obstacle, or opportunity followed by an in-depth description. Each tactic concludes with a section explaining where it fits into the larger methodology, listing the tactics it’s directly supporting as well as tactics it receives support from.
+All tactics follow the same template: Each starts with an introduction outlining a challenge, an obstacle, or an opportunity followed by an in-depth description. Tactics conclude with a section explaining where they fit into the larger methodology, listing other tactics they're directly supporting as well as tactics they receive support from.
 
 ### Requirements
+
+One of the goals of Lean Design System is to make the concept of design systems as accessible as somehow possible. Accordingly, there are only 3 requirements for adopting any of the proposed tactics.
+
+1. A team or organization should have at least one front-end developer and one UI/UX designer building digital products.
+2. Teams and individuals have sufficient autonomy to experiment with new tools, workflows, and approaches.
+3. Short lines of communication within an organization allow for the quick evaluation of results and experiences.
+
+In case a team or organization only meets two or fewer requirements, a few adaptations to the methodology might be necessary. [Get Involved](contribute.md) explains how Lean Design System can be forked and customized for that very purpose.
 
 ### Ideas and inspirations
 
