@@ -2,6 +2,7 @@
 
 * [Get Started](README.md)
 * [Get Involved](contribute.md)
+* [Introduction](introduction.md)
 
 ## Tactics
 
