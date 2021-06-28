@@ -43,5 +43,7 @@ In case a team or organization only meets two or fewer requirements, a few adapt
 
 ### Ideas and inspirations
 
+Lean Design System builds on many years of experience in the the development of digital products and design systems at companies of all sizes—ranging from small startups to Fortune 100 enterprises. More importantly though, it incorporates ideas from outside domains such as lean thinking and modern software development to address resource-constraints in innovative ways. The methodology draws a lot of inspiration from Lean Startup, Extreme Programming, and DevOps. Ideas such as Minimum Viability, Collective Ownership, and Infrastructure-as-Code all had a substantial influence on the design of the individual tactics, as well as on the larger framework.
+
 ### Core values
 
