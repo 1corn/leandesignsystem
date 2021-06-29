@@ -6,7 +6,7 @@ description: >-
 
 # Design Codification
 
-In software design, there's a saying that _"if it isn’t documented, it doesn’t exist."_ Design Codification is driven by the idea that _"if it isn't codified, it won't persist."_ It's a guiding principle based on the belief that digital product development should be underpinned by semantic software code that can be written, reviewed, adapted, and owned by developers and \(visual **and** UX\) designers alike.
+In software design, there's a saying that _"if it isn’t documented, it doesn’t exist."_ Design Codification is driven by the idea that _"if it isn't codified, it won't persist."_ It's a guiding principle based on the belief that digital product development should be underpinned by semantic software code which can be written, reviewed, adapted, and owned by developers and \(visual _and_ UX\) designers alike.
 
 > The systematic codification of design represents a lean approach to avoiding unwanted deviations from guidelines, as it minimizes \(or even eliminates\) the need for strict governance processes.
 
