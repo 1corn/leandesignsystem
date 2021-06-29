@@ -1,7 +1,7 @@
 ---
 description: >-
-  We start with the building blocks we need today and expose them to actual
-  projects at the first opportunity.
+  We start with the building blocks we need today and validate them in the the
+  context of ongoing projects at the first opportunity.
 ---
 
 # Minimum Viable Design System
