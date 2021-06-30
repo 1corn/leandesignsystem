@@ -20,7 +20,7 @@ All content is written in markdown language and stored in a [Git repository](htt
 
 ![Fig. 1: Repository structure](../.gitbook/assets/fig_repo.svg)
 
-All figures are stored as SVGs within the folder linked here. with editable text and can serve as templates for new and improved diagrams. An .AI source file may be provided at a later point in time or can be requested via an email to: [dan@leandesignsystem.org](mailto:dan@leandesignsystem.org).
+All figures are stored as SVG files with editable copy within the folder linked [here](https://github.com/1corn/leandesignsystem/tree/main/.gitbook/assets). They can serve as templates for new and improved diagrams. An .ai or .eps source file may be provided at a later point in time or can be requested via an email to: [dan@leandesignsystem.org](mailto:dan@leandesignsystem.org).
 
 
 
