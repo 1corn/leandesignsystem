@@ -31,5 +31,5 @@
 ---
 
 * [Homepage](https://leandesignsystem.org)
-* [2021 Survey Results](https://www.leandesignsystem.org/2021-survey.html)
+* [2021 Survey Results](https://www.leandesignsystem.org/en/2021-survey.html)
 
