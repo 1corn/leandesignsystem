@@ -15,8 +15,6 @@ Through the process of articulating thoughts we can clarify ideas, avoid misunde
 
 The Lean Design System documentation is freely available under a Creative Commons license and can serve as a foundation for a lightweight design system documentation. It is written in markdown language and stored in a [Git repository](https://github.com/1corn/leandesignsystem/tree/main), which makes it easy to fork, customize and extend. Individual parts can be adopted without change, edited as needed, or deleted altogether. The diagram below \(fig. 1\) illustrates the structure of the documentation: 
 
-![Fig. 1: Lean Design System repository structure](../../.gitbook/assets/fig_repo%20%281%29.svg)
-
 A codified documentation as outlined here, where information is stored in a repository alongside other codified design components, is a good starting point for a fully automated documentation with live component previews down the road. It also teaches us the use of version control in a very simple, accessible way, as changes can be reviewed using a very low-barrier UI like [GitBook](https://www.gitbook.com/) is offering, GUI-based version control software such as [SourceTree](https://www.sourcetreeapp.com/), or directly via terminal.
 
 ## The Holy Grail of design system documentation
