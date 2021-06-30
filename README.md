@@ -41,3 +41,9 @@ In case a team or organization only meets two or fewer requirements, a few adapt
 
 Feel free to start anywhere and explore at your own pace. After you picked a tactic that caught your attention, you may, for example, continue with one of the supporting tactics listed at the bottom of each page. However, if you prefer to read the whole library cover to cover, it is suggested that you follow the predefined order, starting with the guiding principles and then moving on to the subsequent sections. This should give you the best understanding of how the individual layers support one another.
 
+
+
+#### Authors and contributors
+
+D. Kurfess
+
