@@ -1,8 +1,11 @@
 # Table of contents
 
 * [Get Started](README.md)
-* [Get Involved](contribute.md)
-* [Introduction](introduction.md)
+* [Core Values](core-values.md)
+
+## Contribute <a id="contribute-1"></a>
+
+* [Get Involved](contribute-1/contribute.md)
 
 ## Tactics
 
@@ -22,4 +25,11 @@
   * [Design Tokens](tactics/artifacts/design-tokens.md)
   * [UI Kit](tactics/artifacts/ui-kits.md)
   * [A Living Handbook](tactics/artifacts/a-living-handbook.md)
+
+## Links <a id="external-links"></a>
+
+---
+
+* [Homepage](https://leandesignsystem.org)
+* [2021 Survey Results](https://www.leandesignsystem.org/2021-survey.html)
 
