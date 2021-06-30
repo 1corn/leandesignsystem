@@ -18,10 +18,10 @@ Design systems appear to be an optimal solution to achieve both scalability and 
 
 Lean Design System provides an evolving and modular set of 12 tactics \(organized in 4 layers\) aiming to allow any kind of organization \(even small, less design-savvy startups\) to dip their toes into design systems and more strategic design approaches. Every tactic is designed in such a way that it works in isolation, but is also linked to other tactics supporting it. This means the library can be explored at any pace and in a piecemeal manner. The methodology is driven by the idea that any digital product team can cultivate a naturally emerging design system by following a proposed set of principles and behaviors. The right infrastructure and a solid understanding of the artifacts that are to be maintained aim to provide a reliable and scalable framework for emergent systems—which brings us to the 4 layers categorizing the 12 tactics of Lean Design System.
 
-* **Principles:** Tactics on the Principles layer describe the methodology’s guiding principles and foundational concepts.
-* **Infrastructure:** Tactics on the Infrastructure layer describe what kind of organizational and technical structures can be derived from the Principles layer.
-* **Behaviors:** Tactics on the Behaviors level describe how action can be taken on the individual level at any time. It also describes behaviors that should be actively fostered to ensure steady improvement.
-* **Artifacts:** Lastly, tactics on the Artifacts level describe the actual artifacts organized in the design system’s libraries and repositories.
+* \*\*\*\*[**Principles**](tactics/principles/)**:** Tactics on the Principles layer describe the methodology’s guiding principles and foundational concepts.
+* \*\*\*\*[**Infrastructure**](tactics/infrastructure/)**:** Tactics on the Infrastructure layer describe what kind of organizational and technical structures can be derived from the Principles layer.
+* \*\*\*\*[**Behaviors**](tactics/actions/)**:** Tactics on the Behaviors level describe how action can be taken on the individual level at any time. It also describes behaviors that should be actively fostered to ensure steady improvement.
+* \*\*\*\*[**Artifacts**](tactics/artifacts/)**:** Lastly, tactics on the Artifacts level describe the actual artifacts organized in the design system’s libraries and repositories.
 
 ### How tactics are structured
 
