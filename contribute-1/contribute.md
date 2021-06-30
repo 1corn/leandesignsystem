@@ -18,6 +18,8 @@ Design systems continue to be a relatively new concept and we should expect the 
 
 All content is written in markdown language and stored in a [Git repository](https://github.com/1corn/leandesignsystem/tree/main), which makes it easy to fork, customize and extend. The diagram below \(fig. 1\) outlines the structure of the documentation:
 
+![Fig. 1: Repo structure](../.gitbook/assets/fig_repo.svg)
+
 All figures are stored as SVGs within the folder linked here. with editable text and can serve as templates for new and improved diagrams. An .AI source file may be provided at a later point in time or can be requested via an email to: [dan@leandesignsystem.org](mailto:dan@leandesignsystem.org).
 
 
