@@ -12,7 +12,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [![](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-## Get Involved
+## How to Contribute
 
 Design systems continue to be a relatively new concept and we should expect the practices around them to remain in flux for years to come. For this reason, Lean Design System was designed as an open and collaborative project from the get-go. Its contents are licensed under a Creative Commons Attribution and can be freely copied, adapted, and distributed. The only credit required is to keep the list of authors and contributors of the source document\(s\) intact. Completely new pages however don’t require any attribution.
 
