@@ -35,11 +35,7 @@ One of the goals of Lean Design System is to make the concept of design systems 
 2. Teams and individuals have sufficient autonomy to experiment with new tools, workflows, and approaches.
 3. Short lines of communication within an organization allow for the quick evaluation of results and experiences.
 
-In case a team or organization only meets two or fewer requirements, a few adaptations to the methodology might become necessary. Get Involved explains how Lean Design System can be forked and customized for that very purpose.
-
-## How to read this manual
-
-Feel free to start anywhere and explore at your own pace. After you picked a tactic that caught your attention, you may, for example, continue with one of the supporting tactics listed at the bottom of each page. However, if you prefer to read the whole library cover to cover, it is suggested that you follow the predefined order, starting with the guiding principles and then moving on to the subsequent sections. This should give you the best understanding of how the individual layers support one another.
+In case a team or organization only meets two or fewer requirements, a few adaptations to the methodology might become necessary. [`Get Involved`](contribute-1/contribute.md) explains how Lean Design System can be forked and customized for that very purpose.
 
 
 
