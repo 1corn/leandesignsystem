@@ -31,7 +31,7 @@ All tactics follow the same template: Each starts with an introduction outlining
 
 One of the goals of Lean Design System is to make the concept of design systems as accessible as somehow possible. Accordingly, there are only 3 requirements for adopting any of the proposed tactics:
 
-1. A team or organization should have at least one front-end developer and one UI/UX designer working on digital products.
+1. A team or organization should have at least one front-end developer _and_ one UI/UX designer working on digital products.
 2. Teams and individuals have sufficient autonomy to experiment with new tools, workflows, and approaches.
 3. Short lines of communication within an organization allow for the quick evaluation of results and experiences.
 
