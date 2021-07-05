@@ -12,7 +12,7 @@ In software design, there's a saying that _"if it isnâ€™t documented, it doesnâ€
 
 An effective design system will make our design and development successes repeatable and transferable. The systematic codification of design represents a lean approach to avoiding unwanted deviations from guidelines, as it minimizes \(or even eliminates\) the need for strict governance processes. Through collective code ownership \(as outlined in [`Win Friends, not Battles`](win-friends-not-battles.md)\) and continuous optimization \(as outlined in [`Steady Flow of Truth`](../infrastructure/steady-flow-of-truth.md) and [`Tidy up!`](../actions/clean-up.md)\), a codified component repository matures with each project and interaction. 
 
-## The Power of Design Codification
+## The power of Design Codification
 
 Digital products are composed of software code, and by embracing code as a building material, we unlock several powerful concepts and mechanisms related to the computational processing of digital media:
 
