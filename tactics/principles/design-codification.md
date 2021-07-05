@@ -23,7 +23,7 @@ Digital products are composed of software code, and by embracing code as a build
 * Codification allows for **code-based manipulations** of design artifacts at runtime, like coloring or animating icons using SVG and JavaScript, eliminating error-prone handoffs and tedious export processes.
 * Unlike written guidelines, software code is **unambiguous**, helping us to prevent unwanted variance.
 * Definitions stored as code provide us with powerful levers to make significant changes with little effort through **nesting and batch processing**.
-* A code-based style repository can even allow us to generate **automated documentation**. It's almost trivial to build a simple web page previewing our component library, which directly imports definitions from our Design Tokens repository.
+* A code-based style repository can even allow us to generate **automated documentation**. It's almost trivial to build a simple web page previewing our component library, which directly imports definitions from our [`Design Tokens`](../artifacts/design-tokens.md) repository.
 
 Design Codification, if done right, enables seamless communication and collaboration between design and development. It establishes a shared language that can be adopted by everyone working on digital products. Developers can learn about design-related nuances and dependencies while designers gain a better understanding of the technical realities underpinning the technology they're working with—which will also help them take constraints into account much earlier in the process.
 
