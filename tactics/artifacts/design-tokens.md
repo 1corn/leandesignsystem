@@ -10,7 +10,7 @@ description: >-
 
 {% embed url="https://twitter.com/jina/status/1062808011301965825" caption="Jina Anne on Design Tokens" %}
 
-Design Tokens can be described as an abstraction of all aspects shaping the design of digital products. In contrast to hard-coded values maintained all over the place, tokens are the central roots of a scalable and consistent design system.
+Design Tokens can be described as an abstraction of all aspects shaping the design of digital products. In contrast to hard-coded values maintained all over the place, tokens are the central roots of a scalable and consistent design system. With Design Tokens, a design system can be built from the bottom up and in a technology-agnostic manner, as the encoded information can be pulled into any kind of framework.
 
 A well-thought-out Design Tokens structure constitutes the bedrock of a lean code repository. It provides the DNA for our components and a shared language between domains. A design system based on Design Tokens forces designers and developers to continually form consensus, promoting a healthy interweaving of skills and responsibilities. Designers are encouraged to gain at least a basic understanding of the code in order to define and approve tokens. Front-end developers learn about the purpose behind design-related decisions and the relationship between properties, as Design Tokens manage to bridge the semantic gap between the designers' intentions and the technical implementation. They provide additional richness to design definitions and make technical and stylistic nuances more tangible to both audiences.
 
