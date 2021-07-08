@@ -19,7 +19,7 @@ A well-thought-out Design Tokens structure constitutes the bedrock of a lean cod
 Design Tokens also provide designers and developers with powerful levers to make changes quickly and effectively throughout all layers of the design system and our front-end implementations. These layers include the brand design properties at the core of the design system, higher-level themes, custom adaptations, and the specific UI component mappings on the surface of a digital product. The following examples will illustrate how we can structure a Design Tokens repository to make full use of the concept.
 
 {% hint style="info" %}
-The currently preferred approach to maintaining Design Tokens is storing them in a JSON file, as it's the most widely supported format. From there, all information can be pulled directly via JavaScript or compiled to CSS. The examples below are written in SCSS to make them easier to read for designers who may be unfamiliar with JSON.
+The currently preferred approach to maintaining Design Tokens is storing them in JSON files, as it's the most widely supported format. From there, all information can be pulled directly via JavaScript or compiled to CSS. The examples below are written in SCSS to make them easier to read for designers who may be unfamiliar with JSON.
 {% endhint %}
 
 Design Tokens are organized in a tree hierarchy, where we define increasingly specific design decisions as we move towards the leaves of the tree. There's no limit to the number of hierarchical levels we establish, we're free to explore different structures and find the perfect fit for our needs.
