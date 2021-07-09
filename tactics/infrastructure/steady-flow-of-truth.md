@@ -56,6 +56,8 @@ By establishing a Steady Flow of Truth, we populate and optimize our component r
 
 > Every project we work on and every prototype we design can produce tweaks that flow downstream until they reach our code repository—from where they benefit everything we build henceforth.
 
+A more advanced element of a Lean Design System infrastructure is the provisioning of automated pipelines. Designers should be able to trigger builds themselves without having to wait for regular deployments. Build pipelines can greatly improve the flow efficiency through a design system stream as described above, as they allow us to test our changes on the spot.
+
 ## Where this tactic fits in
 
 {% tabs %}
