@@ -4,7 +4,7 @@ description: Make your design system a reflection of the people cultivating it.
 
 # Core Values
 
-Lean Design System builds on many years of experience in the the development of digital products and design systems at companies of all sizes—ranging from small startups to Fortune 100 enterprises. More importantly though, it incorporates ideas from outside domains such as _Lean Thinking_ and modern software development to address resource-constraints in innovative ways. Specifically, the methodology draws a lot of inspiration from _Lean Startup_, _Extreme Programming_, and DevOps. Ideas such as _Minimum Viability_, _Cross-functionality_, _Collective Ownership_, and _Infrastructure-as-Code_ all had a substantial influence on the design of the individual tactics, as well as on the larger framework.
+Lean Design System builds on many years of experience in the the development of digital products and design systems at companies of all sizes—ranging from small startups to Fortune 100 enterprises. More importantly though, it incorporates ideas from outside domains such as _Lean Thinking_ and modern software development to address resource-constraints in innovative ways. Specifically, the methodology draws a lot of inspiration from _Lean Startup_, _Extreme Programming_, and _DevOps_. Ideas such as _Minimum Viability_, _Cross-functionality_, _Collective Ownership_, and _Infrastructure-as-Code_ all had a substantial influence on the design of the individual tactics, as well as on the larger framework.
 
 ## The 4 core values of Lean Design System
 
