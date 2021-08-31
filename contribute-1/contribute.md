@@ -14,7 +14,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## How to contribute
 
-Design systems continue to be a relatively new concept and we should expect the practices around them to remain in flux for years to come. For this reason, Lean Design System was designed as an open and collaborative project from the get-go. I would like to invite everyone to share their own views and experiences by creating new branches or entirely new iterations of the methodology. I will do my best to review all submissions \(i.e. pull requests\) and integrate them into the main repository as quickly as possible. 
+Design systems continue to be a relatively new concept and we should expect the practices around them to remain in flux for years to come. For this reason, Lean Design System was designed as an open and collaborative project from the get-go. I would like to invite everyone to share their own views and experiences by creating new branches or entirely new forks of the methodology. I will do my best to review all submissions \(i.e. pull requests\) and integrate them into the main repository as quickly as possible. 
 
 The contents of this documentation are licensed under a Creative Commons Attribution License and can be freely copied, adapted, and distributed. The only credit required is to keep the list of authors and contributors of the source document\(s\) intact. **New, additional pages however don’t require any attribution.** All pages are written in markdown language and stored in a [Git repository](https://github.com/1corn/leandesignsystem/tree/main), which makes it easy to fork, customize and extend. The diagram below \(fig. 1\) outlines the structure of the documentation:
 
