@@ -1,6 +1,6 @@
 ---
 description: >-
-  Design Tokens are great starting point for Design Codification and help us
+  Design Tokens are a great starting point for Design Codification and help us
   embrace cross-functionality and collective ownership.
 ---
 
